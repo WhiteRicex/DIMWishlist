@@ -4,6 +4,14 @@ title:Rice's Wishlist
 dimwishlist:item=45643573&perks=
 
 
+// Fang of Ir Yût (Adept) ()
+dimwishlist:item=128782990&perks=
+
+
+// Buzzard ()
+dimwishlist:item=213264394&perks=
+
+
 // Eyasluna ()
 dimwishlist:item=235827225&perks=
 
@@ -12,8 +20,28 @@ dimwishlist:item=235827225&perks=
 dimwishlist:item=282549639&perks=
 
 
+// Tomorrow's Answer (Adept) ()
+dimwishlist:item=303107619&perks=
+
+
 // Rufus's Fury (Adept) ()
 dimwishlist:item=342514437&perks=
+
+
+// Vouchsafe ()
+dimwishlist:item=355922321&perks=
+
+
+// Speleologist ()
+dimwishlist:item=412251536&perks=
+
+
+// Insurmountable ()
+dimwishlist:item=414045521&perks=
+
+
+// Tinasha's Mastery ()
+dimwishlist:item=480368036&perks=
 
 
 // Rufus's Fury ()
@@ -24,20 +52,60 @@ dimwishlist:item=484515708&perks=
 dimwishlist:item=496728945&perks=
 
 
+// Abyssal Edge ()
+dimwishlist:item=547165496&perks=
+
+
 // Hullabaloo ()
 dimwishlist:item=657927352&perks=
+
+
+// Cynosure ()
+dimwishlist:item=694275488&perks=
 
 
 // Eyes Unveiled ()
 dimwishlist:item=727781522&perks=
 
 
+// Watchful Eye (Adept) ()
+dimwishlist:item=737409399&perks=
+
+
+// Qua Furor V ()
+dimwishlist:item=751880654&perks=
+
+
+// Noxious Vetiver ()
+dimwishlist:item=825495813&perks=
+
+
 // Vengeful Whisper ()
 dimwishlist:item=839344841&perks=
 
 
+// Cold Comfort ()
+dimwishlist:item=839786290&perks=
+
+
+// Nullify ()
+dimwishlist:item=859869931&perks=
+
+
+// Nullify (Adept) ()
+dimwishlist:item=892183998&perks=
+
+
+// Buzzard (Adept) ()
+dimwishlist:item=927835311&perks=
+
+
 // Non-Denouement (Adept) ()
 dimwishlist:item=1039915310&perks=
+
+
+// The Recluse ()
+dimwishlist:item=1050806815&perks=
 
 
 // Lost Signal ()
@@ -52,6 +120,10 @@ dimwishlist:item=1201528146&perks=
 dimwishlist:item=1246793994&perks=
 
 
+// Imminence ()
+dimwishlist:item=1258168956&perks=
+
+
 // Iterative Loop ()
 dimwishlist:item=1289796511&perks=
 
@@ -60,8 +132,32 @@ dimwishlist:item=1289796511&perks=
 dimwishlist:item=1292594730&perks=
 
 
+// Unsworn ()
+dimwishlist:item=1303313141&perks=
+
+
 // Dimensional Hypotrochoid ()
 dimwishlist:item=1311684613&perks=
+
+
+// The Slammer (Adept) ()
+dimwishlist:item=1354727549&perks=
+
+
+// Trustee ()
+dimwishlist:item=1392919471&perks=
+
+
+// Fang of Ir Yût ()
+dimwishlist:item=1432682459&perks=
+
+
+// Hung Jury SR4 ()
+dimwishlist:item=1453235079&perks=
+
+
+// Acasia's Dejection ()
+dimwishlist:item=1471212226&perks=
 
 
 // Scintillation (Adept) ()
@@ -70,6 +166,14 @@ dimwishlist:item=1492522228&perks=
 
 // Anamnesis (Adept) ()
 dimwishlist:item=1536325168&perks=
+
+
+// Crux Termination IV ()
+dimwishlist:item=1719687748&perks=
+
+
+// Watchful Eye ()
+dimwishlist:item=1757177186&perks=
 
 
 // VS Velocity Baton ()
@@ -84,12 +188,32 @@ dimwishlist:item=1770490683&perks=
 dimwishlist:item=1801007332&perks=
 
 
+// Falling Guillotine ()
+dimwishlist:item=1815105249&perks=
+
+
 // The Summoner ()
 dimwishlist:item=1820994983&perks=
 
 
+// Jararaca-3sr ()
+dimwishlist:item=1851521408&perks=
+
+
+// Chronophage ()
+dimwishlist:item=1886840007&perks=
+
+
+// Warlord's Spear ()
+dimwishlist:item=1968711238&perks=
+
+
 // Reckless Oracle ()
 dimwishlist:item=1992309064&perks=
+
+
+// Summum Bonum (Adept) ()
+dimwishlist:item=2001697739&perks=
 
 
 // Pre Astyanax IV (Adept) ()
@@ -100,8 +224,32 @@ dimwishlist:item=2063217087&perks=
 dimwishlist:item=2152484073&perks=
 
 
+// Aberrant Action ()
+dimwishlist:item=2198166292&perks=
+
+
+// Unworthy ()
+dimwishlist:item=2226158470&perks=
+
+
+// Hezen Vengeance ()
+dimwishlist:item=2265407516&perks=
+
+
 // Yesterday's Question ()
 dimwishlist:item=2300143112&perks=
+
+
+// Breachlight ()
+dimwishlist:item=2328923181&perks=
+
+
+// Corrective Measure (Timelost) ()
+dimwishlist:item=2334480463&perks=
+
+
+// Blast Furnace ()
+dimwishlist:item=2372514508&perks=
 
 
 // Yesterday's Question (Adept) ()
@@ -136,6 +284,10 @@ dimwishlist:item=2591257541&perks=
 dimwishlist:item=2598420927&perks=
 
 
+// Lotus-Eater (Adept) ()
+dimwishlist:item=2697143634&perks=
+
+
 // Riptide ()
 dimwishlist:item=2715240478&perks=
 
@@ -152,8 +304,24 @@ dimwishlist:item=2763843899&perks=
 dimwishlist:item=2876244791&perks=
 
 
+// The Slammer ()
+dimwishlist:item=2889501828&perks=
+
+
 // Pre Astyanax IV ()
 dimwishlist:item=2932922810&perks=
+
+
+// Tomorrow's Answer ()
+dimwishlist:item=3009199534&perks=
+
+
+// Multimach CCX ()
+dimwishlist:item=3211624072&perks=
+
+
+// Redrix's Estoc ()
+dimwishlist:item=3218364298&perks=
 
 
 // Adamantite ()
@@ -164,12 +332,44 @@ dimwishlist:item=3229982889&perks=
 dimwishlist:item=3250744600&perks=
 
 
+// No Survivors ()
+dimwishlist:item=3262192268&perks=
+
+
+// Aisha's Care (Adept) ()
+dimwishlist:item=3332125295&perks=
+
+
+// Indebted Kindness ()
+dimwishlist:item=3381450498&perks=
+
+
+// Gridskipper ()
+dimwishlist:item=3433930495&perks=
+
+
 // Exalted Truth ()
 dimwishlist:item=3436626079&perks=
 
 
+// Peacebond ()
+dimwishlist:item=3437370193&perks=
+
+
 // Adamantite (Adept) ()
 dimwishlist:item=3485029080&perks=
+
+
+// Acasia's Dejection (Adept) ()
+dimwishlist:item=3493494807&perks=
+
+
+// Summum Bonum ()
+dimwishlist:item=3569407878&perks=
+
+
+// Pro Memoria ()
+dimwishlist:item=3605603507&perks=
 
 
 // Suspectum-4fr ()
@@ -178,6 +378,42 @@ dimwishlist:item=3615421669&perks=
 
 // Accrued Redemption ()
 dimwishlist:item=3621336854&perks=
+
+
+// Hezen Vengeance (Timelost) ()
+dimwishlist:item=3623686757&perks=
+
+
+// Corrective Measure ()
+dimwishlist:item=3654744298&perks=
+
+
+// Division (Adept) ()
+dimwishlist:item=3734001727&perks=
+
+
+// Vantage Point ()
+dimwishlist:item=3830941962&perks=
+
+
+// Lotus-Eater ()
+dimwishlist:item=3922217119&perks=
+
+
+// The Call ()
+dimwishlist:item=3947966653&perks=
+
+
+// Yarovit MG4 ()
+dimwishlist:item=3959549446&perks=
+
+
+// Aisha's Care ()
+dimwishlist:item=3969379530&perks=
+
+
+// Heliocentric QSc ()
+dimwishlist:item=3998080529&perks=
 
 
 // Psychopomp ()
@@ -192,12 +428,20 @@ dimwishlist:item=4077588826&perks=
 dimwishlist:item=4152016199&perks=
 
 
+// Appetence ()
+dimwishlist:item=4153087276&perks=
+
+
 // Fair Judgment ()
 dimwishlist:item=4176873718&perks=
 
 
 // Fatebringer ()
 dimwishlist:item=4184168210&perks=
+
+
+// False Idols ()
+dimwishlist:item=4207120603&perks=
 
 
 // Fatebringer (Timelost) ()
