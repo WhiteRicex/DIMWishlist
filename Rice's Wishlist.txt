@@ -36,6 +36,10 @@ dimwishlist:item=205225492&perks=
 dimwishlist:item=213264394&perks=
 
 
+// Falling Guillotine ()
+dimwishlist:item=243425374&perks=
+
+
 // Warden's Law (Adept) ()
 dimwishlist:item=267089201&perks=
 
@@ -266,6 +270,10 @@ dimwishlist:item=1770490683&perks=
 
 // No Hesitation ()
 dimwishlist:item=1801007332&perks=
+
+
+// Falling Guillotine ()
+dimwishlist:item=1815105249&perks=
 
 
 // Warden's Law ()
