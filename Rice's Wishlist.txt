@@ -1,3 +1,5 @@
+title: WhiteRice's Wishlist
+
 dimwishlist:item=4248569242
 dimwishlist:item=4248569242&perks=3523296417
 dimwishlist:item=4248569242&perks=469285294
