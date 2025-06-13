@@ -1,8 +1,6 @@
 title:White Rice's Wishlist
 
-//notes:
-Reconstruction | Recombination
-Demolitionist | 
+//notes:[Reconstruction, Demolitionist] [Recombination]
 dimwishlist:item=4248569242&perks=3523296417,469285294
 dimwishlist:item=4248569242&perks=1523832109,469285294
 dimwishlist:item=4248569242&perks=3523296417,1523832109
@@ -12,10 +10,7 @@ dimwishlist:item=4248569242&perks=469285294
 dimwishlist:item=4248569242&perks=1523832109
 dimwishlist:item=4248569242&perks=469285294
 
-//notes:
-Reconstruction | Vorpal Weapon
-Fourth Time's the Charm | Surrounded
- | Cascade Point
+//notes:[Reconstruction, Fourth Time's the Charm] [Vorpal Weapon, Surrounded, Cascade Point]
 dimwishlist:item=92459755&perks=1354429876,3708227201
 dimwishlist:item=92459755&perks=1354429876,3751912585
 dimwishlist:item=92459755&perks=1354429876,1546637391
@@ -39,9 +34,7 @@ dimwishlist:item=92459755&perks=3708227201
 dimwishlist:item=92459755&perks=3751912585
 dimwishlist:item=92459755&perks=1546637391
 
-//notes:
-Triple Tap | Surrounded
- | Focused Fury
+//notes:[Triple Tap] [Surrounded, Focused Fury]
 dimwishlist:item=2531963421&perks=3400784728,2896038713
 dimwishlist:item=2531963421&perks=3400784728,3708227201
 dimwishlist:item=2531963421&perks=2896038713,3708227201
@@ -50,10 +43,7 @@ dimwishlist:item=2531963421&perks=3400784728
 dimwishlist:item=2531963421&perks=2896038713
 dimwishlist:item=2531963421&perks=3708227201
 
-//notes:
-Auto-Loading Holster | Vorpal Weapon
-Heal Clip | Cascade Point
-Deconstruct | Incandescent
+//notes:[Auto-Loading Holster, Heal Clip, Deconstruct] [Vorpal Weapon, Cascade Point, Incandescent]
 dimwishlist:item=3753063346&perks=3017780555,3751912585
 dimwishlist:item=3753063346&perks=3017780555,4293542123
 dimwishlist:item=3753063346&perks=3017780555,1546637391
@@ -101,10 +91,7 @@ dimwishlist:item=3753063346&perks=3751912585
 dimwishlist:item=3753063346&perks=4293542123
 dimwishlist:item=3753063346&perks=1546637391
 
-//notes:
-Envious Assassin | Bait and Switch
- | Cascade Point
- | Precision Instrument
+//notes:[Envious Assassin] [Bait and Switch, Cascade Point, Precision Instrument]
 dimwishlist:item=2185327324&perks=968510818,3078487919
 dimwishlist:item=2185327324&perks=968510818,3751912585
 dimwishlist:item=2185327324&perks=968510818,555281244
@@ -119,10 +106,7 @@ dimwishlist:item=2185327324&perks=3078487919
 dimwishlist:item=2185327324&perks=3751912585
 dimwishlist:item=2185327324&perks=555281244
 
-//notes:
-Envious Assassin | Bait and Switch
- | Cascade Point
- | Precision Instrument
+//notes:[Envious Assassin] [Bait and Switch, Cascade Point, Precision Instrument]
 dimwishlist:item=2653171212&perks=968510818,3078487919
 dimwishlist:item=2653171212&perks=968510818,3751912585
 dimwishlist:item=2653171212&perks=968510818,555281244
@@ -137,10 +121,7 @@ dimwishlist:item=2653171212&perks=3078487919
 dimwishlist:item=2653171212&perks=3751912585
 dimwishlist:item=2653171212&perks=555281244
 
-//notes:
-Envious Assassin | Bait and Switch
- | Cascade Point
- | Precision Instrument
+//notes:[Envious Assassin] [Bait and Switch, Cascade Point, Precision Instrument]
 dimwishlist:item=51129316&perks=968510818,3078487919
 dimwishlist:item=51129316&perks=968510818,3751912585
 dimwishlist:item=51129316&perks=968510818,555281244
@@ -155,10 +136,7 @@ dimwishlist:item=51129316&perks=3078487919
 dimwishlist:item=51129316&perks=3751912585
 dimwishlist:item=51129316&perks=555281244
 
-//notes:
-Envious Assassin | Bait and Switch
- | Cascade Point
- | Precision Instrument
+//notes:[Envious Assassin] [Bait and Switch, Cascade Point, Precision Instrument]
 dimwishlist:item=2330860573&perks=968510818,3078487919
 dimwishlist:item=2330860573&perks=968510818,3751912585
 dimwishlist:item=2330860573&perks=968510818,555281244
@@ -173,10 +151,7 @@ dimwishlist:item=2330860573&perks=3078487919
 dimwishlist:item=2330860573&perks=3751912585
 dimwishlist:item=2330860573&perks=555281244
 
-//notes:
-Envious Assassin | Bait and Switch
- | Cascade Point
- | Precision Instrument
+//notes:[Envious Assassin] [Bait and Switch, Cascade Point, Precision Instrument]
 dimwishlist:item=2307365&perks=968510818,3078487919
 dimwishlist:item=2307365&perks=968510818,3751912585
 dimwishlist:item=2307365&perks=968510818,555281244
@@ -191,10 +166,7 @@ dimwishlist:item=2307365&perks=3078487919
 dimwishlist:item=2307365&perks=3751912585
 dimwishlist:item=2307365&perks=555281244
 
-//notes:
-Envious Assassin | Bait and Switch
- | Cascade Point
- | Precision Instrument
+//notes:[Envious Assassin] [Bait and Switch, Cascade Point, Precision Instrument]
 dimwishlist:item=825554997&perks=968510818,3078487919
 dimwishlist:item=825554997&perks=968510818,3751912585
 dimwishlist:item=825554997&perks=968510818,555281244
@@ -209,10 +181,7 @@ dimwishlist:item=825554997&perks=3078487919
 dimwishlist:item=825554997&perks=3751912585
 dimwishlist:item=825554997&perks=555281244
 
-//notes:
-Redirection | Elemental Honing
-Envious Arsenal | Bait and Switch
- | Vorpal Weapon
+//notes:[Redirection, Envious Arsenal] [Elemental Honing, Bait and Switch, Vorpal Weapon]
 dimwishlist:item=3360937899&perks=3201496230,3078487919
 dimwishlist:item=3360937899&perks=3201496230,1089671869
 dimwishlist:item=3360937899&perks=3201496230,1546637391
@@ -236,10 +205,7 @@ dimwishlist:item=3360937899&perks=3078487919
 dimwishlist:item=3360937899&perks=1089671869
 dimwishlist:item=3360937899&perks=1546637391
 
-//notes:
-Field Prep | One-Two Punch
-Pugilist | Trench Barrel
-Threat Detector | Vorpal Weapon
+//notes:[Field Prep, Pugilist, Threat Detector] [One-Two Punch, Trench Barrel, Vorpal Weapon]
 dimwishlist:item=2248667690&perks=2869569095,2360754333
 dimwishlist:item=2248667690&perks=2869569095,2679249093
 dimwishlist:item=2248667690&perks=2869569095,1546637391
@@ -302,10 +268,7 @@ dimwishlist:item=2248667690&perks=2360754333
 dimwishlist:item=2248667690&perks=2679249093
 dimwishlist:item=2248667690&perks=1546637391
 
-//notes:
-Field Prep | One-Two Punch
-Pugilist | Trench Barrel
-Threat Detector | Vorpal Weapon
+//notes:[Field Prep, Pugilist, Threat Detector] [One-Two Punch, Trench Barrel, Vorpal Weapon]
 dimwishlist:item=3393519051&perks=2869569095,2360754333
 dimwishlist:item=3393519051&perks=2869569095,2679249093
 dimwishlist:item=3393519051&perks=2869569095,1546637391
@@ -368,10 +331,7 @@ dimwishlist:item=3393519051&perks=2360754333
 dimwishlist:item=3393519051&perks=2679249093
 dimwishlist:item=3393519051&perks=1546637391
 
-//notes:
-Field Prep | One-Two Punch
-Pugilist | Trench Barrel
-Threat Detector | Vorpal Weapon
+//notes:[Field Prep, Pugilist, Threat Detector] [One-Two Punch, Trench Barrel, Vorpal Weapon]
 dimwishlist:item=1298672084&perks=2869569095,2360754333
 dimwishlist:item=1298672084&perks=2869569095,2679249093
 dimwishlist:item=1298672084&perks=2869569095,1546637391
@@ -434,10 +394,7 @@ dimwishlist:item=1298672084&perks=2360754333
 dimwishlist:item=1298672084&perks=2679249093
 dimwishlist:item=1298672084&perks=1546637391
 
-//notes:
-Auto-Loading Holster | Cascade Point
-Overflow | Surrounded
- | Vorpal Weapon
+//notes:[Auto-Loading Holster, Overflow] [Cascade Point, Surrounded, Vorpal Weapon]
 dimwishlist:item=2883484461&perks=3300816228,3708227201
 dimwishlist:item=2883484461&perks=3300816228,3751912585
 dimwishlist:item=2883484461&perks=3300816228,1546637391
@@ -461,9 +418,7 @@ dimwishlist:item=2883484461&perks=3708227201
 dimwishlist:item=2883484461&perks=3751912585
 dimwishlist:item=2883484461&perks=1546637391
 
-//notes:
-Grave Robber | One-Two Punch
- | Cascade Point
+//notes:[Grave Robber] [One-Two Punch, Cascade Point]
 dimwishlist:item=2035738085&perks=1631667848,2679249093
 dimwishlist:item=2035738085&perks=1631667848,3751912585
 dimwishlist:item=2035738085&perks=2679249093,3751912585
@@ -472,10 +427,7 @@ dimwishlist:item=2035738085&perks=1631667848
 dimwishlist:item=2035738085&perks=2679249093
 dimwishlist:item=2035738085&perks=3751912585
 
-//notes:
-Grave Robber | One-Two Punch
-Threat Detector | Surrounded
-Pugilist | Cascade Point
+//notes:[Grave Robber, Threat Detector, Pugilist] [One-Two Punch, Surrounded, Cascade Point]
 dimwishlist:item=1168625549&perks=4071163871,2679249093
 dimwishlist:item=1168625549&perks=4071163871,3708227201
 dimwishlist:item=1168625549&perks=4071163871,3751912585
@@ -510,10 +462,7 @@ dimwishlist:item=1168625549&perks=2679249093
 dimwishlist:item=1168625549&perks=3708227201
 dimwishlist:item=1168625549&perks=3751912585
 
-//notes:
-Grave Robber | One-Two Punch
-Auto-Loading Holster | Frenzy
-Lead from Gold | Surrounded
+//notes:[Grave Robber, Auto-Loading Holster, Lead from Gold] [One-Two Punch, Frenzy, Surrounded]
 dimwishlist:item=3738678140&perks=3300816228,2679249093
 dimwishlist:item=3738678140&perks=3300816228,3708227201
 dimwishlist:item=3738678140&perks=3300816228,4104185692
@@ -548,9 +497,7 @@ dimwishlist:item=3738678140&perks=2679249093
 dimwishlist:item=3738678140&perks=3708227201
 dimwishlist:item=3738678140&perks=4104185692
 
-//notes:
-Discord | Trench Barrel
-One-Two Punch | Redirection
+//notes:[Discord, One-Two Punch] [Trench Barrel, Redirection]
 dimwishlist:item=2855157553&perks=2679249093,2360754333
 dimwishlist:item=2855157553&perks=2679249093,3201496230
 dimwishlist:item=2855157553&perks=3978468247,2360754333
@@ -566,9 +513,7 @@ dimwishlist:item=2855157553&perks=3978468247
 dimwishlist:item=2855157553&perks=2360754333
 dimwishlist:item=2855157553&perks=3201496230
 
-//notes:
-Discord | Trench Barrel
-One-Two Punch | Redirection
+//notes:[Discord, One-Two Punch] [Trench Barrel, Redirection]
 dimwishlist:item=4097972038&perks=2679249093,2360754333
 dimwishlist:item=4097972038&perks=2679249093,3201496230
 dimwishlist:item=4097972038&perks=3978468247,2360754333
@@ -584,9 +529,7 @@ dimwishlist:item=4097972038&perks=3978468247
 dimwishlist:item=4097972038&perks=2360754333
 dimwishlist:item=4097972038&perks=3201496230
 
-//notes:
-Discord | Trench Barrel
-One-Two Punch | Redirection
+//notes:[Discord, One-Two Punch] [Trench Barrel, Redirection]
 dimwishlist:item=1879212552&perks=2679249093,2360754333
 dimwishlist:item=1879212552&perks=2679249093,3201496230
 dimwishlist:item=1879212552&perks=3978468247,2360754333
@@ -602,9 +545,7 @@ dimwishlist:item=1879212552&perks=3978468247
 dimwishlist:item=1879212552&perks=2360754333
 dimwishlist:item=1879212552&perks=3201496230
 
-//notes:
-Discord | Trench Barrel
-One-Two Punch | Redirection
+//notes:[Discord, One-Two Punch] [Trench Barrel, Redirection]
 dimwishlist:item=1904170910&perks=2679249093,2360754333
 dimwishlist:item=1904170910&perks=2679249093,3201496230
 dimwishlist:item=1904170910&perks=3978468247,2360754333
@@ -620,9 +561,7 @@ dimwishlist:item=1904170910&perks=3978468247
 dimwishlist:item=1904170910&perks=2360754333
 dimwishlist:item=1904170910&perks=3201496230
 
-//notes:
-Discord | Trench Barrel
-One-Two Punch | Redirection
+//notes:[Discord, One-Two Punch] [Trench Barrel, Redirection]
 dimwishlist:item=1976481399&perks=2679249093,2360754333
 dimwishlist:item=1976481399&perks=2679249093,3201496230
 dimwishlist:item=1976481399&perks=3978468247,2360754333
@@ -638,9 +577,7 @@ dimwishlist:item=1976481399&perks=3978468247
 dimwishlist:item=1976481399&perks=2360754333
 dimwishlist:item=1976481399&perks=3201496230
 
-//notes:
-Discord | Trench Barrel
-One-Two Punch | Redirection
+//notes:[Discord, One-Two Punch] [Trench Barrel, Redirection]
 dimwishlist:item=2764074355&perks=2679249093,2360754333
 dimwishlist:item=2764074355&perks=2679249093,3201496230
 dimwishlist:item=2764074355&perks=3978468247,2360754333
@@ -656,9 +593,7 @@ dimwishlist:item=2764074355&perks=3978468247
 dimwishlist:item=2764074355&perks=2360754333
 dimwishlist:item=2764074355&perks=3201496230
 
-//notes:
-Discord | Trench Barrel
-One-Two Punch | Redirection
+//notes:[Discord, One-Two Punch] [Trench Barrel, Redirection]
 dimwishlist:item=1626437786&perks=2679249093,2360754333
 dimwishlist:item=1626437786&perks=2679249093,3201496230
 dimwishlist:item=1626437786&perks=3978468247,2360754333
@@ -674,10 +609,7 @@ dimwishlist:item=1626437786&perks=3978468247
 dimwishlist:item=1626437786&perks=2360754333
 dimwishlist:item=1626437786&perks=3201496230
 
-//notes:
-Fourth Time's the Charm | Bait and Switch
-Kinetic Tremors | Elemental Honing
-Discord | Firefly
+//notes:[Fourth Time's the Charm, Kinetic Tremors, Discord] [Bait and Switch, Elemental Honing, Firefly]
 dimwishlist:item=3653573172&perks=3891536761,3078487919
 dimwishlist:item=3653573172&perks=3891536761,3824105627
 dimwishlist:item=3653573172&perks=3891536761,1089671869
@@ -724,10 +656,7 @@ dimwishlist:item=3653573172&perks=3824105627
 dimwishlist:item=3653573172&perks=1089671869
 dimwishlist:item=3653573172&perks=1561789734
 
-//notes:
-Fourth Time's the Charm | Bait and Switch
-Kinetic Tremors | Elemental Honing
-Discord | Firefly
+//notes:[Fourth Time's the Charm, Kinetic Tremors, Discord] [Bait and Switch, Elemental Honing, Firefly]
 dimwishlist:item=3844610113&perks=3891536761,3078487919
 dimwishlist:item=3844610113&perks=3891536761,3824105627
 dimwishlist:item=3844610113&perks=3891536761,1089671869
@@ -774,10 +703,7 @@ dimwishlist:item=3844610113&perks=3824105627
 dimwishlist:item=3844610113&perks=1089671869
 dimwishlist:item=3844610113&perks=1561789734
 
-//notes:
-Fourth Time's the Charm | Bait and Switch
-Kinetic Tremors | Elemental Honing
-Discord | Firefly
+//notes:[Fourth Time's the Charm, Kinetic Tremors, Discord] [Bait and Switch, Elemental Honing, Firefly]
 dimwishlist:item=2362652544&perks=3891536761,3078487919
 dimwishlist:item=2362652544&perks=3891536761,3824105627
 dimwishlist:item=2362652544&perks=3891536761,1089671869
@@ -824,10 +750,7 @@ dimwishlist:item=2362652544&perks=3824105627
 dimwishlist:item=2362652544&perks=1089671869
 dimwishlist:item=2362652544&perks=1561789734
 
-//notes:
-Fourth Time's the Charm | Bait and Switch
-Kinetic Tremors | Elemental Honing
-Discord | Firefly
+//notes:[Fourth Time's the Charm, Kinetic Tremors, Discord] [Bait and Switch, Elemental Honing, Firefly]
 dimwishlist:item=1987769101&perks=3891536761,3078487919
 dimwishlist:item=1987769101&perks=3891536761,3824105627
 dimwishlist:item=1987769101&perks=3891536761,1089671869
@@ -874,9 +797,7 @@ dimwishlist:item=1987769101&perks=3824105627
 dimwishlist:item=1987769101&perks=1089671869
 dimwishlist:item=1987769101&perks=1561789734
 
-//notes:
-Reconstruction | Precision Instrument
-Discord | High Ground
+//notes:[Reconstruction, Discord] [Precision Instrument, High Ground]
 dimwishlist:item=2806569825&perks=3978468247,2319119708
 dimwishlist:item=2806569825&perks=3978468247,555281244
 dimwishlist:item=2806569825&perks=1523832109,2319119708
@@ -892,9 +813,7 @@ dimwishlist:item=2806569825&perks=1523832109
 dimwishlist:item=2806569825&perks=2319119708
 dimwishlist:item=2806569825&perks=555281244
 
-//notes:
-Fourth Time's the Charm | Firing Line
-Shoot to Loot | 
+//notes:[Fourth Time's the Charm, Shoot to Loot] [Firing Line]
 dimwishlist:item=2673925403&perks=3700496672,1771339417
 dimwishlist:item=2673925403&perks=1354429876,1771339417
 dimwishlist:item=2673925403&perks=3700496672,1354429876
@@ -904,9 +823,7 @@ dimwishlist:item=2673925403&perks=1771339417
 dimwishlist:item=2673925403&perks=1354429876
 dimwishlist:item=2673925403&perks=1771339417
 
-//notes:
-Fourth Time's the Charm | Precision Instrument
-Envious Arsenal | Vorpal Weapon
+//notes:[Fourth Time's the Charm, Envious Arsenal] [Precision Instrument, Vorpal Weapon]
 dimwishlist:item=3454326177&perks=3987942396,555281244
 dimwishlist:item=3454326177&perks=3987942396,1546637391
 dimwishlist:item=3454326177&perks=1354429876,555281244
@@ -922,9 +839,7 @@ dimwishlist:item=3454326177&perks=1354429876
 dimwishlist:item=3454326177&perks=555281244
 dimwishlist:item=3454326177&perks=1546637391
 
-//notes:
-Fourth Time's the Charm | Precision Instrument
-Envious Arsenal | Vorpal Weapon
+//notes:[Fourth Time's the Charm, Envious Arsenal] [Precision Instrument, Vorpal Weapon]
 dimwishlist:item=147444292&perks=3987942396,555281244
 dimwishlist:item=147444292&perks=3987942396,1546637391
 dimwishlist:item=147444292&perks=1354429876,555281244
@@ -940,16 +855,12 @@ dimwishlist:item=147444292&perks=1354429876
 dimwishlist:item=147444292&perks=555281244
 dimwishlist:item=147444292&perks=1546637391
 
-//notes:
-Lead from Gold | Wellspring
+//notes:[Lead from Gold] [Wellspring]
 dimwishlist:item=2164448701&perks=1556840489,3592538738
 dimwishlist:item=2164448701&perks=1556840489
 dimwishlist:item=2164448701&perks=3592538738
 
-//notes:
-Triple Tap | Focused Fury
-Shoot to Loot | 
-Lead from Gold | 
+//notes:[Triple Tap, Shoot to Loot, Lead from Gold] [Focused Fury]
 dimwishlist:item=3865728990&perks=3400784728,2896038713
 dimwishlist:item=3865728990&perks=3700496672,2896038713
 dimwishlist:item=3865728990&perks=1556840489,2896038713
@@ -966,10 +877,7 @@ dimwishlist:item=3865728990&perks=2896038713
 dimwishlist:item=3865728990&perks=1556840489
 dimwishlist:item=3865728990&perks=2896038713
 
-//notes:
-Reconstruction | Recombination
-Demolitionist | Vorpal Weapon
-Discord | Redirection
+//notes:[Reconstruction, Demolitionist, Discord] [Recombination, Vorpal Weapon, Redirection]
 dimwishlist:item=2990047042&perks=3523296417,3201496230
 dimwishlist:item=2990047042&perks=3523296417,469285294
 dimwishlist:item=2990047042&perks=3523296417,1546637391
@@ -1004,10 +912,7 @@ dimwishlist:item=2990047042&perks=3201496230
 dimwishlist:item=2990047042&perks=469285294
 dimwishlist:item=2990047042&perks=1546637391
 
-//notes:
-Reconstruction | Recombination
-Demolitionist | Vorpal Weapon
-Discord | Redirection
+//notes:[Reconstruction, Demolitionist, Discord] [Recombination, Vorpal Weapon, Redirection]
 dimwishlist:item=3612338554&perks=3523296417,3201496230
 dimwishlist:item=3612338554&perks=3523296417,469285294
 dimwishlist:item=3612338554&perks=3523296417,1546637391
@@ -1042,10 +947,7 @@ dimwishlist:item=3612338554&perks=3201496230
 dimwishlist:item=3612338554&perks=469285294
 dimwishlist:item=3612338554&perks=1546637391
 
-//notes:
-Reconstruction | Recombination
-Demolitionist | Vorpal Weapon
-Discord | Redirection
+//notes:[Reconstruction, Demolitionist, Discord] [Recombination, Vorpal Weapon, Redirection]
 dimwishlist:item=570866107&perks=3523296417,3201496230
 dimwishlist:item=570866107&perks=3523296417,469285294
 dimwishlist:item=570866107&perks=3523296417,1546637391
@@ -1080,9 +982,7 @@ dimwishlist:item=570866107&perks=3201496230
 dimwishlist:item=570866107&perks=469285294
 dimwishlist:item=570866107&perks=1546637391
 
-//notes:
-Envious Assassin | Cascade Point
- | Firing Line
+//notes:[Envious Assassin] [Cascade Point, Firing Line]
 dimwishlist:item=3920310144&perks=968510818,3751912585
 dimwishlist:item=3920310144&perks=968510818,1771339417
 dimwishlist:item=3920310144&perks=3751912585,1771339417
@@ -1091,9 +991,7 @@ dimwishlist:item=3920310144&perks=968510818
 dimwishlist:item=3920310144&perks=3751912585
 dimwishlist:item=3920310144&perks=1771339417
 
-//notes:
-Chill Clip | Chaos Reshaped
-Rewind Rounds | 
+//notes:[Chill Clip, Rewind Rounds] [Chaos Reshaped]
 dimwishlist:item=445197843&perks=2578928832,3640170453
 dimwishlist:item=445197843&perks=2978966579,3640170453
 dimwishlist:item=445197843&perks=3418782618,3640170453
@@ -1119,9 +1017,7 @@ dimwishlist:item=445197843&perks=3640170453
 dimwishlist:item=445197843&perks=3708253561
 dimwishlist:item=445197843&perks=3640170453
 
-//notes:
-Chill Clip | Chaos Reshaped
-Rewind Rounds | 
+//notes:[Chill Clip, Rewind Rounds] [Chaos Reshaped]
 dimwishlist:item=172461430&perks=2578928832,3640170453
 dimwishlist:item=172461430&perks=2978966579,3640170453
 dimwishlist:item=172461430&perks=3418782618,3640170453
@@ -1147,10 +1043,7 @@ dimwishlist:item=172461430&perks=3640170453
 dimwishlist:item=172461430&perks=3708253561
 dimwishlist:item=172461430&perks=3640170453
 
-//notes:
-Envious Arsenal | Bait and Switch
-Incandescent | Discord
-Triple Tap | Fourth Time's the Charm
+//notes:[Envious Arsenal, Incandescent, Triple Tap] [Bait and Switch, Discord, Fourth Time's the Charm]
 dimwishlist:item=1893967086&perks=3400784728,3078487919
 dimwishlist:item=1893967086&perks=3400784728,3978468247
 dimwishlist:item=1893967086&perks=3400784728,1354429876
@@ -1185,10 +1078,7 @@ dimwishlist:item=1893967086&perks=3078487919
 dimwishlist:item=1893967086&perks=3978468247
 dimwishlist:item=1893967086&perks=1354429876
 
-//notes:
-Envious Arsenal | Bait and Switch
-Incandescent | Discord
-Triple Tap | Fourth Time's the Charm
+//notes:[Envious Arsenal, Incandescent, Triple Tap] [Bait and Switch, Discord, Fourth Time's the Charm]
 dimwishlist:item=3503560035&perks=3400784728,3078487919
 dimwishlist:item=3503560035&perks=3400784728,3978468247
 dimwishlist:item=3503560035&perks=3400784728,1354429876
@@ -1223,10 +1113,7 @@ dimwishlist:item=3503560035&perks=3078487919
 dimwishlist:item=3503560035&perks=3978468247
 dimwishlist:item=3503560035&perks=1354429876
 
-//notes:
-Auto-Loading Holster | Firing Line
- | Vorpal Weapon
- | Demolitionist
+//notes:[Auto-Loading Holster] [Firing Line, Vorpal Weapon, Demolitionist]
 dimwishlist:item=3434507093&perks=3300816228,3523296417
 dimwishlist:item=3434507093&perks=3300816228,1546637391
 dimwishlist:item=3434507093&perks=3300816228,1771339417
@@ -1241,10 +1128,7 @@ dimwishlist:item=3434507093&perks=3523296417
 dimwishlist:item=3434507093&perks=1546637391
 dimwishlist:item=3434507093&perks=1771339417
 
-//notes:
-Auto-Loading Holster | Firing Line
- | Vorpal Weapon
- | Demolitionist
+//notes:[Auto-Loading Holster] [Firing Line, Vorpal Weapon, Demolitionist]
 dimwishlist:item=852551895&perks=3300816228,3523296417
 dimwishlist:item=852551895&perks=3300816228,1546637391
 dimwishlist:item=852551895&perks=3300816228,1771339417
@@ -1259,9 +1143,7 @@ dimwishlist:item=852551895&perks=3523296417
 dimwishlist:item=852551895&perks=1546637391
 dimwishlist:item=852551895&perks=1771339417
 
-//notes:
-Air Trigger | Withering Gaze
-Slickdraw | 
+//notes:[Air Trigger, Slickdraw] [Withering Gaze]
 dimwishlist:item=4200122994&perks=1421772400,1134488199
 dimwishlist:item=4200122994&perks=1821614984,1134488199
 dimwishlist:item=4200122994&perks=1421772400,1821614984
@@ -1271,16 +1153,12 @@ dimwishlist:item=4200122994&perks=1134488199
 dimwishlist:item=4200122994&perks=1821614984
 dimwishlist:item=4200122994&perks=1134488199
 
-//notes:
-Overflow | Controlled Burst
+//notes:[Overflow] [Controlled Burst]
 dimwishlist:item=2558925366&perks=3643424744,2594592626
 dimwishlist:item=2558925366&perks=3643424744
 dimwishlist:item=2558925366&perks=2594592626
 
-//notes:
-Auto-Loading Holster | Chill Clip
-Lead from Gold | Frenzy
-Field Prep | Demolitionist
+//notes:[Auto-Loading Holster, Lead from Gold, Field Prep] [Chill Clip, Frenzy, Demolitionist]
 dimwishlist:item=2715240478&perks=2869569095,2978966579
 dimwishlist:item=2715240478&perks=2869569095,3523296417
 dimwishlist:item=2715240478&perks=2869569095,4104185692
@@ -1343,21 +1221,17 @@ dimwishlist:item=2715240478&perks=2978966579
 dimwishlist:item=2715240478&perks=3523296417
 dimwishlist:item=2715240478&perks=4104185692
 
-//notes:
-Lead from Gold | Vorpal Weapon
+//notes:[Lead from Gold] [Vorpal Weapon]
 dimwishlist:item=2481881293&perks=1556840489,1546637391
 dimwishlist:item=2481881293&perks=1556840489
 dimwishlist:item=2481881293&perks=1546637391
 
-//notes:
-Lead from Gold | Vorpal Weapon
+//notes:[Lead from Gold] [Vorpal Weapon]
 dimwishlist:item=2502422772&perks=1556840489,1546637391
 dimwishlist:item=2502422772&perks=1556840489
 dimwishlist:item=2502422772&perks=1546637391
 
-//notes:
-Lead from Gold | Voltshot
- | Demolitionist
+//notes:[Lead from Gold] [Voltshot, Demolitionist]
 dimwishlist:item=1289796511&perks=1556840489,2173046394
 dimwishlist:item=1289796511&perks=1556840489,3523296417
 dimwishlist:item=1289796511&perks=2173046394,3523296417
@@ -1366,10 +1240,7 @@ dimwishlist:item=1289796511&perks=1556840489
 dimwishlist:item=1289796511&perks=2173046394
 dimwishlist:item=1289796511&perks=3523296417
 
-//notes:
-Auto-Loading Holster | Controlled Burst
-Lead from Gold | Reservoir Burst
-Destabilizing Rounds | 
+//notes:[Auto-Loading Holster, Lead from Gold, Destabilizing Rounds] [Controlled Burst, Reservoir Burst]
 dimwishlist:item=2209003210&perks=3300816228,2594592626
 dimwishlist:item=2209003210&perks=3300816228,1427256713
 dimwishlist:item=2209003210&perks=1556840489,2594592626
@@ -1394,10 +1265,7 @@ dimwishlist:item=2209003210&perks=2048641572
 dimwishlist:item=2209003210&perks=2594592626
 dimwishlist:item=2209003210&perks=1427256713
 
-//notes:
-Auto-Loading Holster | Controlled Burst
-Lead from Gold | Reservoir Burst
-Destabilizing Rounds | 
+//notes:[Auto-Loading Holster, Lead from Gold, Destabilizing Rounds] [Controlled Burst, Reservoir Burst]
 dimwishlist:item=2720651699&perks=3300816228,2594592626
 dimwishlist:item=2720651699&perks=3300816228,1427256713
 dimwishlist:item=2720651699&perks=1556840489,2594592626
@@ -1422,10 +1290,7 @@ dimwishlist:item=2720651699&perks=2048641572
 dimwishlist:item=2720651699&perks=2594592626
 dimwishlist:item=2720651699&perks=1427256713
 
-//notes:
-Auto-Loading Holster | Vorpal Weapon
-Lead from Gold | Demolitionist
- | One for All
+//notes:[Auto-Loading Holster, Lead from Gold] [Vorpal Weapon, Demolitionist, One for All]
 dimwishlist:item=1197771438&perks=3300816228,3523296417
 dimwishlist:item=1197771438&perks=3300816228,4049631843
 dimwishlist:item=1197771438&perks=3300816228,1546637391
@@ -1449,10 +1314,7 @@ dimwishlist:item=1197771438&perks=3523296417
 dimwishlist:item=1197771438&perks=4049631843
 dimwishlist:item=1197771438&perks=1546637391
 
-//notes:
-Envious Arsenal | Elemental Honing
-Ambitious Assassin | Frenzy
-Pugilist | Rolling Storm
+//notes:[Envious Arsenal, Ambitious Assassin, Pugilist] [Elemental Honing, Frenzy, Rolling Storm]
 dimwishlist:item=3840794631&perks=3987942396,3218042543
 dimwishlist:item=3840794631&perks=3987942396,4104185692
 dimwishlist:item=3840794631&perks=3987942396,1089671869
@@ -1487,10 +1349,7 @@ dimwishlist:item=3840794631&perks=3218042543
 dimwishlist:item=3840794631&perks=4104185692
 dimwishlist:item=3840794631&perks=1089671869
 
-//notes:
-Envious Arsenal | Elemental Honing
-Ambitious Assassin | Frenzy
-Pugilist | Rolling Storm
+//notes:[Envious Arsenal, Ambitious Assassin, Pugilist] [Elemental Honing, Frenzy, Rolling Storm]
 dimwishlist:item=4028298892&perks=3987942396,3218042543
 dimwishlist:item=4028298892&perks=3987942396,4104185692
 dimwishlist:item=4028298892&perks=3987942396,1089671869
@@ -1525,10 +1384,7 @@ dimwishlist:item=4028298892&perks=3218042543
 dimwishlist:item=4028298892&perks=4104185692
 dimwishlist:item=4028298892&perks=1089671869
 
-//notes:
-Envious Arsenal | Elemental Honing
-Ambitious Assassin | Frenzy
-Pugilist | Rolling Storm
+//notes:[Envious Arsenal, Ambitious Assassin, Pugilist] [Elemental Honing, Frenzy, Rolling Storm]
 dimwishlist:item=2553380021&perks=3987942396,3218042543
 dimwishlist:item=2553380021&perks=3987942396,4104185692
 dimwishlist:item=2553380021&perks=3987942396,1089671869
@@ -1563,10 +1419,7 @@ dimwishlist:item=2553380021&perks=3218042543
 dimwishlist:item=2553380021&perks=4104185692
 dimwishlist:item=2553380021&perks=1089671869
 
-//notes:
-Envious Arsenal | Elemental Honing
-Ambitious Assassin | Frenzy
-Pugilist | Rolling Storm
+//notes:[Envious Arsenal, Ambitious Assassin, Pugilist] [Elemental Honing, Frenzy, Rolling Storm]
 dimwishlist:item=704410186&perks=3987942396,3218042543
 dimwishlist:item=704410186&perks=3987942396,4104185692
 dimwishlist:item=704410186&perks=3987942396,1089671869
@@ -1601,9 +1454,7 @@ dimwishlist:item=704410186&perks=3218042543
 dimwishlist:item=704410186&perks=4104185692
 dimwishlist:item=704410186&perks=1089671869
 
-//notes:
-Repulsor Brace | Destabilizing Rounds
-Demolitionist | Attrition Orbs
+//notes:[Repulsor Brace, Demolitionist] [Destabilizing Rounds, Attrition Orbs]
 dimwishlist:item=1762785663&perks=3523296417,243981275
 dimwishlist:item=1762785663&perks=3523296417,2048641572
 dimwishlist:item=1762785663&perks=776531651,243981275
@@ -1619,9 +1470,7 @@ dimwishlist:item=1762785663&perks=776531651
 dimwishlist:item=1762785663&perks=243981275
 dimwishlist:item=1762785663&perks=2048641572
 
-//notes:
-Slideways | Chain Reaction
-Slice | Deconstruct
+//notes:[Slideways, Slice] [Chain Reaction, Deconstruct]
 dimwishlist:item=1218113510&perks=923806249,2396489472
 dimwishlist:item=1218113510&perks=923806249,3993379141
 dimwishlist:item=1218113510&perks=923806249,1164602481
@@ -1645,10 +1494,7 @@ dimwishlist:item=1218113510&perks=2396489472
 dimwishlist:item=1218113510&perks=3993379141
 dimwishlist:item=1218113510&perks=1164602481
 
-//notes:
-Demolitionist | Redirection
-Envious Arsenal | Chain Reaction
-Lead from Gold | 
+//notes:[Demolitionist, Envious Arsenal, Lead from Gold] [Redirection, Chain Reaction]
 dimwishlist:item=492673102&perks=3523296417,2396489472
 dimwishlist:item=492673102&perks=3523296417,3201496230
 dimwishlist:item=492673102&perks=3987942396,2396489472
@@ -1673,10 +1519,7 @@ dimwishlist:item=492673102&perks=1556840489
 dimwishlist:item=492673102&perks=2396489472
 dimwishlist:item=492673102&perks=3201496230
 
-//notes:
-Demolitionist | Redirection
-Envious Arsenal | Chain Reaction
-Lead from Gold | 
+//notes:[Demolitionist, Envious Arsenal, Lead from Gold] [Redirection, Chain Reaction]
 dimwishlist:item=1125217994&perks=3523296417,2396489472
 dimwishlist:item=1125217994&perks=3523296417,3201496230
 dimwishlist:item=1125217994&perks=3987942396,2396489472
@@ -1701,10 +1544,7 @@ dimwishlist:item=1125217994&perks=1556840489
 dimwishlist:item=1125217994&perks=2396489472
 dimwishlist:item=1125217994&perks=3201496230
 
-//notes:
-Demolitionist | Redirection
-Envious Arsenal | Chain Reaction
-Lead from Gold | 
+//notes:[Demolitionist, Envious Arsenal, Lead from Gold] [Redirection, Chain Reaction]
 dimwishlist:item=2059741649&perks=3523296417,2396489472
 dimwishlist:item=2059741649&perks=3523296417,3201496230
 dimwishlist:item=2059741649&perks=3987942396,2396489472
@@ -1729,10 +1569,7 @@ dimwishlist:item=2059741649&perks=1556840489
 dimwishlist:item=2059741649&perks=2396489472
 dimwishlist:item=2059741649&perks=3201496230
 
-//notes:
-Demolitionist | Redirection
-Envious Arsenal | Chain Reaction
-Lead from Gold | 
+//notes:[Demolitionist, Envious Arsenal, Lead from Gold] [Redirection, Chain Reaction]
 dimwishlist:item=3185151619&perks=3523296417,2396489472
 dimwishlist:item=3185151619&perks=3523296417,3201496230
 dimwishlist:item=3185151619&perks=3987942396,2396489472
@@ -1757,10 +1594,7 @@ dimwishlist:item=3185151619&perks=1556840489
 dimwishlist:item=3185151619&perks=2396489472
 dimwishlist:item=3185151619&perks=3201496230
 
-//notes:
-Demolitionist | Redirection
-Envious Arsenal | Chain Reaction
-Lead from Gold | 
+//notes:[Demolitionist, Envious Arsenal, Lead from Gold] [Redirection, Chain Reaction]
 dimwishlist:item=233402416&perks=3523296417,2396489472
 dimwishlist:item=233402416&perks=3523296417,3201496230
 dimwishlist:item=233402416&perks=3987942396,2396489472
@@ -1785,10 +1619,7 @@ dimwishlist:item=233402416&perks=1556840489
 dimwishlist:item=233402416&perks=2396489472
 dimwishlist:item=233402416&perks=3201496230
 
-//notes:
-Heal Clip | Incandescent
-Demolitionist | Kill Clip
-Auto-Loading Holster | Desperate Measures
+//notes:[Heal Clip, Demolitionist, Auto-Loading Holster] [Incandescent, Kill Clip, Desperate Measures]
 dimwishlist:item=2584830733&perks=3017780555,4293542123
 dimwishlist:item=2584830733&perks=3017780555,1015611457
 dimwishlist:item=2584830733&perks=3017780555,2109543898
@@ -1823,10 +1654,7 @@ dimwishlist:item=2584830733&perks=4293542123
 dimwishlist:item=2584830733&perks=1015611457
 dimwishlist:item=2584830733&perks=2109543898
 
-//notes:
-Heal Clip | Incandescent
-Demolitionist | Kill Clip
-Auto-Loading Holster | Desperate Measures
+//notes:[Heal Clip, Demolitionist, Auto-Loading Holster] [Incandescent, Kill Clip, Desperate Measures]
 dimwishlist:item=3850168899&perks=3017780555,4293542123
 dimwishlist:item=3850168899&perks=3017780555,1015611457
 dimwishlist:item=3850168899&perks=3017780555,2109543898
@@ -1861,9 +1689,7 @@ dimwishlist:item=3850168899&perks=4293542123
 dimwishlist:item=3850168899&perks=1015611457
 dimwishlist:item=3850168899&perks=2109543898
 
-//notes:
-Ambitious Assassin | Chain Reaction
-Unrelenting | Wellspring
+//notes:[Ambitious Assassin, Unrelenting] [Chain Reaction, Wellspring]
 dimwishlist:item=2480074702&perks=3108830275,2396489472
 dimwishlist:item=2480074702&perks=3108830275,3592538738
 dimwishlist:item=2480074702&perks=2010801679,2396489472
@@ -1879,9 +1705,7 @@ dimwishlist:item=2480074702&perks=2010801679
 dimwishlist:item=2480074702&perks=2396489472
 dimwishlist:item=2480074702&perks=3592538738
 
-//notes:
-Ambitious Assassin | Chain Reaction
-Unrelenting | Wellspring
+//notes:[Ambitious Assassin, Unrelenting] [Chain Reaction, Wellspring]
 dimwishlist:item=568611921&perks=3108830275,2396489472
 dimwishlist:item=568611921&perks=3108830275,3592538738
 dimwishlist:item=568611921&perks=2010801679,2396489472
@@ -1897,9 +1721,7 @@ dimwishlist:item=568611921&perks=2010801679
 dimwishlist:item=568611921&perks=2396489472
 dimwishlist:item=568611921&perks=3592538738
 
-//notes:
-Ambitious Assassin | Chain Reaction
-Unrelenting | Wellspring
+//notes:[Ambitious Assassin, Unrelenting] [Chain Reaction, Wellspring]
 dimwishlist:item=613334176&perks=3108830275,2396489472
 dimwishlist:item=613334176&perks=3108830275,3592538738
 dimwishlist:item=613334176&perks=2010801679,2396489472
@@ -1915,9 +1737,7 @@ dimwishlist:item=613334176&perks=2010801679
 dimwishlist:item=613334176&perks=2396489472
 dimwishlist:item=613334176&perks=3592538738
 
-//notes:
-Ambitious Assassin | Chain Reaction
-Unrelenting | Wellspring
+//notes:[Ambitious Assassin, Unrelenting] [Chain Reaction, Wellspring]
 dimwishlist:item=4038592169&perks=3108830275,2396489472
 dimwishlist:item=4038592169&perks=3108830275,3592538738
 dimwishlist:item=4038592169&perks=2010801679,2396489472
@@ -1933,9 +1753,7 @@ dimwishlist:item=4038592169&perks=2010801679
 dimwishlist:item=4038592169&perks=2396489472
 dimwishlist:item=4038592169&perks=3592538738
 
-//notes:
-Wellspring | Destabilizing Rounds
-Envious Assassin | Repulsor Brace
+//notes:[Wellspring, Envious Assassin] [Destabilizing Rounds, Repulsor Brace]
 dimwishlist:item=2936850733&perks=3592538738,776531651
 dimwishlist:item=2936850733&perks=3592538738,2048641572
 dimwishlist:item=2936850733&perks=968510818,776531651
@@ -1951,9 +1769,7 @@ dimwishlist:item=2936850733&perks=968510818
 dimwishlist:item=2936850733&perks=776531651
 dimwishlist:item=2936850733&perks=2048641572
 
-//notes:
-Wellspring | Destabilizing Rounds
-Envious Assassin | Repulsor Brace
+//notes:[Wellspring, Envious Assassin] [Destabilizing Rounds, Repulsor Brace]
 dimwishlist:item=1606497639&perks=3592538738,776531651
 dimwishlist:item=1606497639&perks=3592538738,2048641572
 dimwishlist:item=1606497639&perks=968510818,776531651
@@ -1969,10 +1785,7 @@ dimwishlist:item=1606497639&perks=968510818
 dimwishlist:item=1606497639&perks=776531651
 dimwishlist:item=1606497639&perks=2048641572
 
-//notes:
-Auto-Loading Holster | Recombination
-Impulse Amplifier | Vorpal Weapon
-Overflow | Frenzy
+//notes:[Auto-Loading Holster, Impulse Amplifier, Overflow] [Recombination, Vorpal Weapon, Frenzy]
 dimwishlist:item=3993415705&perks=3300816228,4104185692
 dimwishlist:item=3993415705&perks=3300816228,469285294
 dimwishlist:item=3993415705&perks=3300816228,1546637391
@@ -2007,10 +1820,7 @@ dimwishlist:item=3993415705&perks=4104185692
 dimwishlist:item=3993415705&perks=469285294
 dimwishlist:item=3993415705&perks=1546637391
 
-//notes:
-Auto-Loading Holster | Recombination
-Impulse Amplifier | Vorpal Weapon
-Overflow | Frenzy
+//notes:[Auto-Loading Holster, Impulse Amplifier, Overflow] [Recombination, Vorpal Weapon, Frenzy]
 dimwishlist:item=4043921923&perks=3300816228,4104185692
 dimwishlist:item=4043921923&perks=3300816228,469285294
 dimwishlist:item=4043921923&perks=3300816228,1546637391
@@ -2045,10 +1855,7 @@ dimwishlist:item=4043921923&perks=4104185692
 dimwishlist:item=4043921923&perks=469285294
 dimwishlist:item=4043921923&perks=1546637391
 
-//notes:
-Auto-Loading Holster | Recombination
-Impulse Amplifier | Vorpal Weapon
-Overflow | Frenzy
+//notes:[Auto-Loading Holster, Impulse Amplifier, Overflow] [Recombination, Vorpal Weapon, Frenzy]
 dimwishlist:item=568611922&perks=3300816228,4104185692
 dimwishlist:item=568611922&perks=3300816228,469285294
 dimwishlist:item=568611922&perks=3300816228,1546637391
@@ -2083,10 +1890,7 @@ dimwishlist:item=568611922&perks=4104185692
 dimwishlist:item=568611922&perks=469285294
 dimwishlist:item=568611922&perks=1546637391
 
-//notes:
-Envious Arsenal | Chill Clip
-Slideways | Lead from Gold
- | Chain Reaction
+//notes:[Envious Arsenal, Slideways] [Chill Clip, Lead from Gold, Chain Reaction]
 dimwishlist:item=2599338624&perks=3987942396,2396489472
 dimwishlist:item=2599338624&perks=3987942396,2978966579
 dimwishlist:item=2599338624&perks=3987942396,1556840489
@@ -2110,9 +1914,7 @@ dimwishlist:item=2599338624&perks=2396489472
 dimwishlist:item=2599338624&perks=2978966579
 dimwishlist:item=2599338624&perks=1556840489
 
-//notes:
-Reconstruction | Bait and Switch
- | Vorpal Weapon
+//notes:[Reconstruction] [Bait and Switch, Vorpal Weapon]
 dimwishlist:item=1332123064&perks=1523832109,3078487919
 dimwishlist:item=1332123064&perks=1523832109,1546637391
 dimwishlist:item=1332123064&perks=3078487919,1546637391
@@ -2121,9 +1923,7 @@ dimwishlist:item=1332123064&perks=1523832109
 dimwishlist:item=1332123064&perks=3078487919
 dimwishlist:item=1332123064&perks=1546637391
 
-//notes:
-Reconstruction | Bait and Switch
- | Vorpal Weapon
+//notes:[Reconstruction] [Bait and Switch, Vorpal Weapon]
 dimwishlist:item=959037361&perks=1523832109,3078487919
 dimwishlist:item=959037361&perks=1523832109,1546637391
 dimwishlist:item=959037361&perks=3078487919,1546637391
@@ -2132,9 +1932,7 @@ dimwishlist:item=959037361&perks=1523832109
 dimwishlist:item=959037361&perks=3078487919
 dimwishlist:item=959037361&perks=1546637391
 
-//notes:
-Demolitionist | Chain Reaction
-Ambitious Assassin | Vorpal Weapon
+//notes:[Demolitionist, Ambitious Assassin] [Chain Reaction, Vorpal Weapon]
 dimwishlist:item=2060863616&perks=3523296417,2396489472
 dimwishlist:item=2060863616&perks=3523296417,1546637391
 dimwishlist:item=2060863616&perks=2010801679,2396489472
@@ -2150,10 +1948,7 @@ dimwishlist:item=2060863616&perks=2010801679
 dimwishlist:item=2060863616&perks=2396489472
 dimwishlist:item=2060863616&perks=1546637391
 
-//notes:
-Envious Arsenal | Bait and Switch
-Auto-Loading Holster | Lead from Gold
-Demolitionist | Frenzy
+//notes:[Envious Arsenal, Auto-Loading Holster, Demolitionist] [Bait and Switch, Lead from Gold, Frenzy]
 dimwishlist:item=2306182339&perks=3300816228,3078487919
 dimwishlist:item=2306182339&perks=3300816228,4104185692
 dimwishlist:item=2306182339&perks=3300816228,1556840489
@@ -2188,10 +1983,7 @@ dimwishlist:item=2306182339&perks=3078487919
 dimwishlist:item=2306182339&perks=4104185692
 dimwishlist:item=2306182339&perks=1556840489
 
-//notes:
-Envious Arsenal | Bait and Switch
-Auto-Loading Holster | Lead from Gold
-Demolitionist | Frenzy
+//notes:[Envious Arsenal, Auto-Loading Holster, Demolitionist] [Bait and Switch, Lead from Gold, Frenzy]
 dimwishlist:item=2982006965&perks=3300816228,3078487919
 dimwishlist:item=2982006965&perks=3300816228,4104185692
 dimwishlist:item=2982006965&perks=3300816228,1556840489
@@ -2226,10 +2018,7 @@ dimwishlist:item=2982006965&perks=3078487919
 dimwishlist:item=2982006965&perks=4104185692
 dimwishlist:item=2982006965&perks=1556840489
 
-//notes:
-Envious Arsenal | Bait and Switch
-Auto-Loading Holster | Lead from Gold
-Demolitionist | Frenzy
+//notes:[Envious Arsenal, Auto-Loading Holster, Demolitionist] [Bait and Switch, Lead from Gold, Frenzy]
 dimwishlist:item=1206729100&perks=3300816228,3078487919
 dimwishlist:item=1206729100&perks=3300816228,4104185692
 dimwishlist:item=1206729100&perks=3300816228,1556840489
@@ -2264,10 +2053,7 @@ dimwishlist:item=1206729100&perks=3078487919
 dimwishlist:item=1206729100&perks=4104185692
 dimwishlist:item=1206729100&perks=1556840489
 
-//notes:
-Envious Arsenal | Bait and Switch
-Auto-Loading Holster | Lead from Gold
-Demolitionist | Frenzy
+//notes:[Envious Arsenal, Auto-Loading Holster, Demolitionist] [Bait and Switch, Lead from Gold, Frenzy]
 dimwishlist:item=2477408004&perks=3300816228,3078487919
 dimwishlist:item=2477408004&perks=3300816228,4104185692
 dimwishlist:item=2477408004&perks=3300816228,1556840489
@@ -2302,10 +2088,7 @@ dimwishlist:item=2477408004&perks=3078487919
 dimwishlist:item=2477408004&perks=4104185692
 dimwishlist:item=2477408004&perks=1556840489
 
-//notes:
-Envious Arsenal | Bait and Switch
-Auto-Loading Holster | Lead from Gold
-Demolitionist | Frenzy
+//notes:[Envious Arsenal, Auto-Loading Holster, Demolitionist] [Bait and Switch, Lead from Gold, Frenzy]
 dimwishlist:item=559523765&perks=3300816228,3078487919
 dimwishlist:item=559523765&perks=3300816228,4104185692
 dimwishlist:item=559523765&perks=3300816228,1556840489
@@ -2340,10 +2123,7 @@ dimwishlist:item=559523765&perks=3078487919
 dimwishlist:item=559523765&perks=4104185692
 dimwishlist:item=559523765&perks=1556840489
 
-//notes:
-Discord | Close to Melee
-Impulse Amplifier | Melee Momentum
-Slice | 
+//notes:[Discord, Impulse Amplifier, Slice] [Close to Melee, Melee Momentum]
 dimwishlist:item=2671849376&perks=3978468247,3773585912
 dimwishlist:item=2671849376&perks=3978468247,1782407750
 dimwishlist:item=2671849376&perks=923806249,3773585912
@@ -2368,10 +2148,7 @@ dimwishlist:item=2671849376&perks=951095735
 dimwishlist:item=2671849376&perks=3773585912
 dimwishlist:item=2671849376&perks=1782407750
 
-//notes:
-Discord | Close to Melee
-Impulse Amplifier | Melee Momentum
-Slice | 
+//notes:[Discord, Impulse Amplifier, Slice] [Close to Melee, Melee Momentum]
 dimwishlist:item=3269398063&perks=3978468247,3773585912
 dimwishlist:item=3269398063&perks=3978468247,1782407750
 dimwishlist:item=3269398063&perks=923806249,3773585912
@@ -2396,10 +2173,7 @@ dimwishlist:item=3269398063&perks=951095735
 dimwishlist:item=3269398063&perks=3773585912
 dimwishlist:item=3269398063&perks=1782407750
 
-//notes:
-Discord | Close to Melee
-Impulse Amplifier | Melee Momentum
-Slice | 
+//notes:[Discord, Impulse Amplifier, Slice] [Close to Melee, Melee Momentum]
 dimwishlist:item=2755584425&perks=3978468247,3773585912
 dimwishlist:item=2755584425&perks=3978468247,1782407750
 dimwishlist:item=2755584425&perks=923806249,3773585912
@@ -2424,10 +2198,7 @@ dimwishlist:item=2755584425&perks=951095735
 dimwishlist:item=2755584425&perks=3773585912
 dimwishlist:item=2755584425&perks=1782407750
 
-//notes:
-Discord | Close to Melee
-Impulse Amplifier | Melee Momentum
-Slice | 
+//notes:[Discord, Impulse Amplifier, Slice] [Close to Melee, Melee Momentum]
 dimwishlist:item=25228802&perks=3978468247,3773585912
 dimwishlist:item=25228802&perks=3978468247,1782407750
 dimwishlist:item=25228802&perks=923806249,3773585912
@@ -2452,10 +2223,7 @@ dimwishlist:item=25228802&perks=951095735
 dimwishlist:item=25228802&perks=3773585912
 dimwishlist:item=25228802&perks=1782407750
 
-//notes:
-Overflow | Chill Clip
-Impulse Amplifier | Close to Melee
-Lead from Gold | 
+//notes:[Overflow, Impulse Amplifier, Lead from Gold] [Chill Clip, Close to Melee]
 dimwishlist:item=2298039571&perks=3643424744,2978966579
 dimwishlist:item=2298039571&perks=3643424744,1782407750
 dimwishlist:item=2298039571&perks=951095735,2978966579
@@ -2480,10 +2248,7 @@ dimwishlist:item=2298039571&perks=1556840489
 dimwishlist:item=2298039571&perks=2978966579
 dimwishlist:item=2298039571&perks=1782407750
 
-//notes:
-Overflow | Chill Clip
-Impulse Amplifier | Close to Melee
-Lead from Gold | 
+//notes:[Overflow, Impulse Amplifier, Lead from Gold] [Chill Clip, Close to Melee]
 dimwishlist:item=3997086838&perks=3643424744,2978966579
 dimwishlist:item=3997086838&perks=3643424744,1782407750
 dimwishlist:item=3997086838&perks=951095735,2978966579
@@ -2508,10 +2273,7 @@ dimwishlist:item=3997086838&perks=1556840489
 dimwishlist:item=3997086838&perks=2978966579
 dimwishlist:item=3997086838&perks=1782407750
 
-//notes:
-Reconstruction | Incandescent
-Lead from Gold | Redirection
-Heal Clip | Close to Melee
+//notes:[Reconstruction, Lead from Gold, Heal Clip] [Incandescent, Redirection, Close to Melee]
 dimwishlist:item=2934305134&perks=3017780555,3201496230
 dimwishlist:item=2934305134&perks=3017780555,4293542123
 dimwishlist:item=2934305134&perks=3017780555,1782407750
@@ -2546,10 +2308,7 @@ dimwishlist:item=2934305134&perks=3201496230
 dimwishlist:item=2934305134&perks=4293542123
 dimwishlist:item=2934305134&perks=1782407750
 
-//notes:
-Reconstruction | Incandescent
-Lead from Gold | Redirection
-Heal Clip | Close to Melee
+//notes:[Reconstruction, Lead from Gold, Heal Clip] [Incandescent, Redirection, Close to Melee]
 dimwishlist:item=1685406703&perks=3017780555,3201496230
 dimwishlist:item=1685406703&perks=3017780555,4293542123
 dimwishlist:item=1685406703&perks=3017780555,1782407750
@@ -2584,10 +2343,7 @@ dimwishlist:item=1685406703&perks=3201496230
 dimwishlist:item=1685406703&perks=4293542123
 dimwishlist:item=1685406703&perks=1782407750
 
-//notes:
-Reconstruction | Incandescent
-Lead from Gold | Redirection
-Heal Clip | Close to Melee
+//notes:[Reconstruction, Lead from Gold, Heal Clip] [Incandescent, Redirection, Close to Melee]
 dimwishlist:item=1757202961&perks=3017780555,3201496230
 dimwishlist:item=1757202961&perks=3017780555,4293542123
 dimwishlist:item=1757202961&perks=3017780555,1782407750
@@ -2622,10 +2378,7 @@ dimwishlist:item=1757202961&perks=3201496230
 dimwishlist:item=1757202961&perks=4293542123
 dimwishlist:item=1757202961&perks=1782407750
 
-//notes:
-Reconstruction | Incandescent
-Lead from Gold | Redirection
-Heal Clip | Close to Melee
+//notes:[Reconstruction, Lead from Gold, Heal Clip] [Incandescent, Redirection, Close to Melee]
 dimwishlist:item=3210739171&perks=3017780555,3201496230
 dimwishlist:item=3210739171&perks=3017780555,4293542123
 dimwishlist:item=3210739171&perks=3017780555,1782407750
@@ -2660,10 +2413,7 @@ dimwishlist:item=3210739171&perks=3201496230
 dimwishlist:item=3210739171&perks=4293542123
 dimwishlist:item=3210739171&perks=1782407750
 
-//notes:
-Reconstruction | Incandescent
-Lead from Gold | Redirection
-Heal Clip | Close to Melee
+//notes:[Reconstruction, Lead from Gold, Heal Clip] [Incandescent, Redirection, Close to Melee]
 dimwishlist:item=1050582210&perks=3017780555,3201496230
 dimwishlist:item=1050582210&perks=3017780555,4293542123
 dimwishlist:item=1050582210&perks=3017780555,1782407750
@@ -2698,10 +2448,7 @@ dimwishlist:item=1050582210&perks=3201496230
 dimwishlist:item=1050582210&perks=4293542123
 dimwishlist:item=1050582210&perks=1782407750
 
-//notes:
-Auto-Loading Holster | Frenzy
-Impulse Amplifier | Close to Melee
- | Voltshot
+//notes:[Auto-Loading Holster, Impulse Amplifier] [Frenzy, Close to Melee, Voltshot]
 dimwishlist:item=4005780578&perks=3300816228,2173046394
 dimwishlist:item=4005780578&perks=3300816228,4104185692
 dimwishlist:item=4005780578&perks=3300816228,1782407750
@@ -2725,10 +2472,7 @@ dimwishlist:item=4005780578&perks=2173046394
 dimwishlist:item=4005780578&perks=4104185692
 dimwishlist:item=4005780578&perks=1782407750
 
-//notes:
-Auto-Loading Holster | Frenzy
-Impulse Amplifier | Close to Melee
- | Voltshot
+//notes:[Auto-Loading Holster, Impulse Amplifier] [Frenzy, Close to Melee, Voltshot]
 dimwishlist:item=1141586039&perks=3300816228,2173046394
 dimwishlist:item=1141586039&perks=3300816228,4104185692
 dimwishlist:item=1141586039&perks=3300816228,1782407750
@@ -2752,10 +2496,7 @@ dimwishlist:item=1141586039&perks=2173046394
 dimwishlist:item=1141586039&perks=4104185692
 dimwishlist:item=1141586039&perks=1782407750
 
-//notes:
-Impulse Amplifier | Close to Melee
-Grave Robber | Chaos Reshaped
-Demolitionist | Chain Reaction
+//notes:[Impulse Amplifier, Grave Robber, Demolitionist] [Close to Melee, Chaos Reshaped, Chain Reaction]
 dimwishlist:item=535198113&perks=3523296417,2396489472
 dimwishlist:item=535198113&perks=3523296417,3640170453
 dimwishlist:item=535198113&perks=3523296417,1782407750
@@ -2790,10 +2531,7 @@ dimwishlist:item=535198113&perks=2396489472
 dimwishlist:item=535198113&perks=3640170453
 dimwishlist:item=535198113&perks=1782407750
 
-//notes:
-Impulse Amplifier | Close to Melee
-Grave Robber | Chaos Reshaped
-Demolitionist | Chain Reaction
+//notes:[Impulse Amplifier, Grave Robber, Demolitionist] [Close to Melee, Chaos Reshaped, Chain Reaction]
 dimwishlist:item=3123651616&perks=3523296417,2396489472
 dimwishlist:item=3123651616&perks=3523296417,3640170453
 dimwishlist:item=3123651616&perks=3523296417,1782407750
@@ -2828,10 +2566,7 @@ dimwishlist:item=3123651616&perks=2396489472
 dimwishlist:item=3123651616&perks=3640170453
 dimwishlist:item=3123651616&perks=1782407750
 
-//notes:
-Shoot to Loot | Detonator Beam
-Tear | Elemental Honing
-Rewind Rounds | Hatchling
+//notes:[Shoot to Loot, Tear, Rewind Rounds] [Detonator Beam, Elemental Honing, Hatchling]
 dimwishlist:item=1303313141&perks=2578928832,4198902903
 dimwishlist:item=1303313141&perks=2578928832,831391274
 dimwishlist:item=1303313141&perks=2578928832,1089671869
@@ -2894,10 +2629,7 @@ dimwishlist:item=1303313141&perks=4198902903
 dimwishlist:item=1303313141&perks=831391274
 dimwishlist:item=1303313141&perks=1089671869
 
-//notes:
-Demolitionist | Headstone
-Overflow | Deconstruct
- | Attrition Orbs
+//notes:[Demolitionist, Overflow] [Headstone, Deconstruct, Attrition Orbs]
 dimwishlist:item=4153087276&perks=3523296417,3993379141
 dimwishlist:item=4153087276&perks=3523296417,124408337
 dimwishlist:item=4153087276&perks=3523296417,243981275
@@ -2931,10 +2663,7 @@ dimwishlist:item=4153087276&perks=124408337
 dimwishlist:item=4153087276&perks=243981275
 dimwishlist:item=4153087276&perks=1164602481
 
-//notes:
-Shoot to Loot | Demolitionist
- | Frenzy
- | Incandescent
+//notes:[Shoot to Loot] [Demolitionist, Frenzy, Incandescent]
 dimwishlist:item=548958835&perks=3700496672,3523296417
 dimwishlist:item=548958835&perks=3700496672,4104185692
 dimwishlist:item=548958835&perks=3700496672,4293542123
@@ -2949,16 +2678,12 @@ dimwishlist:item=548958835&perks=3523296417
 dimwishlist:item=548958835&perks=4104185692
 dimwishlist:item=548958835&perks=4293542123
 
-//notes:
-Shoot to Loot | Voltshot
+//notes:[Shoot to Loot] [Voltshot]
 dimwishlist:item=2827764482&perks=3700496672,2173046394
 dimwishlist:item=2827764482&perks=3700496672
 dimwishlist:item=2827764482&perks=2173046394
 
-//notes:
-Shoot to Loot | Destabilizing Rounds
-Repulsor Brace | Demolitionist
- | Desperate Measures
+//notes:[Shoot to Loot, Repulsor Brace] [Destabilizing Rounds, Demolitionist, Desperate Measures]
 dimwishlist:item=1886840007&perks=3700496672,3523296417
 dimwishlist:item=1886840007&perks=3700496672,2048641572
 dimwishlist:item=1886840007&perks=3700496672,2109543898
@@ -2982,10 +2707,7 @@ dimwishlist:item=1886840007&perks=3523296417
 dimwishlist:item=1886840007&perks=2048641572
 dimwishlist:item=1886840007&perks=2109543898
 
-//notes:
-Slice | Desperate Measures
-Lead from Gold | Golden Tricorn
-Demolitionist | One for All
+//notes:[Slice, Lead from Gold, Demolitionist] [Desperate Measures, Golden Tricorn, One for All]
 dimwishlist:item=3947966653&perks=3523296417,2610012052
 dimwishlist:item=3947966653&perks=3523296417,4049631843
 dimwishlist:item=3947966653&perks=3523296417,2109543898
@@ -3020,10 +2742,7 @@ dimwishlist:item=3947966653&perks=2610012052
 dimwishlist:item=3947966653&perks=4049631843
 dimwishlist:item=3947966653&perks=2109543898
 
-//notes:
-Slice | Desperate Measures
-Lead from Gold | Golden Tricorn
-Demolitionist | One for All
+//notes:[Slice, Lead from Gold, Demolitionist] [Desperate Measures, Golden Tricorn, One for All]
 dimwishlist:item=2755584425&perks=3523296417,2610012052
 dimwishlist:item=2755584425&perks=3523296417,4049631843
 dimwishlist:item=2755584425&perks=3523296417,2109543898
@@ -3058,10 +2777,7 @@ dimwishlist:item=2755584425&perks=2610012052
 dimwishlist:item=2755584425&perks=4049631843
 dimwishlist:item=2755584425&perks=2109543898
 
-//notes:
-Slice | Desperate Measures
-Lead from Gold | Golden Tricorn
-Demolitionist | One for All
+//notes:[Slice, Lead from Gold, Demolitionist] [Desperate Measures, Golden Tricorn, One for All]
 dimwishlist:item=25228802&perks=3523296417,2610012052
 dimwishlist:item=25228802&perks=3523296417,4049631843
 dimwishlist:item=25228802&perks=3523296417,2109543898
@@ -3096,10 +2812,7 @@ dimwishlist:item=25228802&perks=2610012052
 dimwishlist:item=25228802&perks=4049631843
 dimwishlist:item=25228802&perks=2109543898
 
-//notes:
-Air Trigger | Chill Clip
-Impulse Amplifier | Surrounded
-Loose Change | Desperate Measures
+//notes:[Air Trigger, Impulse Amplifier, Loose Change] [Chill Clip, Surrounded, Desperate Measures]
 dimwishlist:item=480368036&perks=951095735,2978966579
 dimwishlist:item=480368036&perks=951095735,3708227201
 dimwishlist:item=480368036&perks=951095735,2109543898
@@ -3134,16 +2847,12 @@ dimwishlist:item=480368036&perks=2978966579
 dimwishlist:item=480368036&perks=3708227201
 dimwishlist:item=480368036&perks=2109543898
 
-//notes:
-Heal Clip | Incandescent
+//notes:[Heal Clip] [Incandescent]
 dimwishlist:item=2198166292&perks=3017780555,4293542123
 dimwishlist:item=2198166292&perks=3017780555
 dimwishlist:item=2198166292&perks=4293542123
 
-//notes:
-Impulse Amplifier | Voltshot
-Lead from Gold | Surrounded
- | Adagio
+//notes:[Impulse Amplifier, Lead from Gold] [Voltshot, Surrounded, Adagio]
 dimwishlist:item=3381450498&perks=951095735,2173046394
 dimwishlist:item=3381450498&perks=951095735,3673922083
 dimwishlist:item=3381450498&perks=951095735,3708227201
@@ -3167,10 +2876,7 @@ dimwishlist:item=3381450498&perks=2173046394
 dimwishlist:item=3381450498&perks=3673922083
 dimwishlist:item=3381450498&perks=3708227201
 
-//notes:
-Repulsor Brace | Destabilizing Rounds
-Reconstruction | Withering Gaze
-Shoot to Loot | One for All
+//notes:[Repulsor Brace, Reconstruction, Shoot to Loot] [Destabilizing Rounds, Withering Gaze, One for All]
 dimwishlist:item=3922217119&perks=3700496672,4049631843
 dimwishlist:item=3922217119&perks=3700496672,1134488199
 dimwishlist:item=3922217119&perks=3700496672,2048641572
@@ -3205,10 +2911,7 @@ dimwishlist:item=3922217119&perks=4049631843
 dimwishlist:item=3922217119&perks=1134488199
 dimwishlist:item=3922217119&perks=2048641572
 
-//notes:
-Repulsor Brace | Destabilizing Rounds
-Reconstruction | Withering Gaze
-Shoot to Loot | One for All
+//notes:[Repulsor Brace, Reconstruction, Shoot to Loot] [Destabilizing Rounds, Withering Gaze, One for All]
 dimwishlist:item=2697143634&perks=3700496672,4049631843
 dimwishlist:item=2697143634&perks=3700496672,1134488199
 dimwishlist:item=2697143634&perks=3700496672,2048641572
@@ -3243,10 +2946,7 @@ dimwishlist:item=2697143634&perks=4049631843
 dimwishlist:item=2697143634&perks=1134488199
 dimwishlist:item=2697143634&perks=2048641572
 
-//notes:
-Demolitionist | Desperate Measures
-Reconstruction | Bait and Switch
-Hatchling | Dragonfly
+//notes:[Demolitionist, Reconstruction, Hatchling] [Desperate Measures, Bait and Switch, Dragonfly]
 dimwishlist:item=3605603507&perks=3523296417,2848615171
 dimwishlist:item=3605603507&perks=3523296417,3078487919
 dimwishlist:item=3605603507&perks=3523296417,3865257976
@@ -3293,10 +2993,7 @@ dimwishlist:item=3605603507&perks=3078487919
 dimwishlist:item=3605603507&perks=3865257976
 dimwishlist:item=3605603507&perks=2109543898
 
-//notes:
-Air Trigger | Headstone
-Rimestealer | Desperate Measures
-Fourth Time's the Charm | Killing Tally
+//notes:[Air Trigger, Rimestealer, Fourth Time's the Charm] [Headstone, Desperate Measures, Killing Tally]
 dimwishlist:item=2896109856&perks=1354429876,2782457288
 dimwishlist:item=2896109856&perks=1354429876,124408337
 dimwishlist:item=2896109856&perks=1354429876,557221067
@@ -3343,10 +3040,7 @@ dimwishlist:item=2896109856&perks=124408337
 dimwishlist:item=2896109856&perks=557221067
 dimwishlist:item=2896109856&perks=2109543898
 
-//notes:
-Air Trigger | Headstone
-Rimestealer | Desperate Measures
-Fourth Time's the Charm | Killing Tally
+//notes:[Air Trigger, Rimestealer, Fourth Time's the Charm] [Headstone, Desperate Measures, Killing Tally]
 dimwishlist:item=1967303408&perks=1354429876,2782457288
 dimwishlist:item=1967303408&perks=1354429876,124408337
 dimwishlist:item=1967303408&perks=1354429876,557221067
@@ -3393,10 +3087,7 @@ dimwishlist:item=1967303408&perks=124408337
 dimwishlist:item=1967303408&perks=557221067
 dimwishlist:item=1967303408&perks=2109543898
 
-//notes:
-Auto-Loading Holster | Incandescent
-Subsistence | Cascade Point
-Dragonfly | 
+//notes:[Auto-Loading Holster, Subsistence, Dragonfly] [Incandescent, Cascade Point]
 dimwishlist:item=4220529694&perks=2848615171,3751912585
 dimwishlist:item=4220529694&perks=2848615171,4293542123
 dimwishlist:item=4220529694&perks=3300816228,3751912585
@@ -3432,10 +3123,7 @@ dimwishlist:item=4220529694&perks=1820235745
 dimwishlist:item=4220529694&perks=3751912585
 dimwishlist:item=4220529694&perks=4293542123
 
-//notes:
-Auto-Loading Holster | Incandescent
-Subsistence | Cascade Point
-Dragonfly | 
+//notes:[Auto-Loading Holster, Subsistence, Dragonfly] [Incandescent, Cascade Point]
 dimwishlist:item=66875353&perks=2848615171,3751912585
 dimwishlist:item=66875353&perks=2848615171,4293542123
 dimwishlist:item=66875353&perks=3300816228,3751912585
@@ -3471,10 +3159,7 @@ dimwishlist:item=66875353&perks=1820235745
 dimwishlist:item=66875353&perks=3751912585
 dimwishlist:item=66875353&perks=4293542123
 
-//notes:
-Auto-Loading Holster | Incandescent
-Subsistence | Cascade Point
-Dragonfly | 
+//notes:[Auto-Loading Holster, Subsistence, Dragonfly] [Incandescent, Cascade Point]
 dimwishlist:item=495940989&perks=2848615171,3751912585
 dimwishlist:item=495940989&perks=2848615171,4293542123
 dimwishlist:item=495940989&perks=3300816228,3751912585
@@ -3510,10 +3195,7 @@ dimwishlist:item=495940989&perks=1820235745
 dimwishlist:item=495940989&perks=3751912585
 dimwishlist:item=495940989&perks=4293542123
 
-//notes:
-Auto-Loading Holster | Incandescent
-Subsistence | Cascade Point
-Dragonfly | 
+//notes:[Auto-Loading Holster, Subsistence, Dragonfly] [Incandescent, Cascade Point]
 dimwishlist:item=1845978721&perks=2848615171,3751912585
 dimwishlist:item=1845978721&perks=2848615171,4293542123
 dimwishlist:item=1845978721&perks=3300816228,3751912585
@@ -3549,9 +3231,7 @@ dimwishlist:item=1845978721&perks=1820235745
 dimwishlist:item=1845978721&perks=3751912585
 dimwishlist:item=1845978721&perks=4293542123
 
-//notes:
-Demolitionist | High Ground
-Reconstruction | Bait and Switch
+//notes:[Demolitionist, Reconstruction] [High Ground, Bait and Switch]
 dimwishlist:item=2828278545&perks=3523296417,2319119708
 dimwishlist:item=2828278545&perks=3523296417,3078487919
 dimwishlist:item=2828278545&perks=1523832109,2319119708
@@ -3567,9 +3247,7 @@ dimwishlist:item=2828278545&perks=1523832109
 dimwishlist:item=2828278545&perks=2319119708
 dimwishlist:item=2828278545&perks=3078487919
 
-//notes:
-Demolitionist | High Ground
-Reconstruction | Bait and Switch
+//notes:[Demolitionist, Reconstruction] [High Ground, Bait and Switch]
 dimwishlist:item=407511664&perks=3523296417,2319119708
 dimwishlist:item=407511664&perks=3523296417,3078487919
 dimwishlist:item=407511664&perks=1523832109,2319119708
@@ -3585,10 +3263,7 @@ dimwishlist:item=407511664&perks=1523832109
 dimwishlist:item=407511664&perks=2319119708
 dimwishlist:item=407511664&perks=3078487919
 
-//notes:
-Reconstruction | Killing Tally
-Dragonfly | Repulsor Brace
-Subsistence | 
+//notes:[Reconstruction, Dragonfly, Subsistence] [Killing Tally, Repulsor Brace]
 dimwishlist:item=4230965989&perks=2848615171,2782457288
 dimwishlist:item=4230965989&perks=2848615171,557221067
 dimwishlist:item=4230965989&perks=2848615171,776531651
@@ -3636,10 +3311,7 @@ dimwishlist:item=4230965989&perks=2782457288
 dimwishlist:item=4230965989&perks=557221067
 dimwishlist:item=4230965989&perks=776531651
 
-//notes:
-Envious Assassin | One for All
-Field Prep | Vorpal Weapon
- | Chain Reaction
+//notes:[Envious Assassin, Field Prep] [One for All, Vorpal Weapon, Chain Reaction]
 dimwishlist:item=1311684613&perks=2869569095,2396489472
 dimwishlist:item=1311684613&perks=2869569095,4049631843
 dimwishlist:item=1311684613&perks=2869569095,1546637391
@@ -3687,10 +3359,7 @@ dimwishlist:item=1311684613&perks=2396489472
 dimwishlist:item=1311684613&perks=4049631843
 dimwishlist:item=1311684613&perks=1546637391
 
-//notes:
-Envious Arsenal | Chain Reaction
-Envious Assassin | One for All
-Demolitionist | Rolling Storm
+//notes:[Envious Arsenal, Envious Assassin, Demolitionist] [Chain Reaction, One for All, Rolling Storm]
 dimwishlist:item=2666273249&perks=3523296417,2396489472
 dimwishlist:item=2666273249&perks=3523296417,3218042543
 dimwishlist:item=2666273249&perks=3523296417,4049631843
@@ -3725,10 +3394,7 @@ dimwishlist:item=2666273249&perks=2396489472
 dimwishlist:item=2666273249&perks=3218042543
 dimwishlist:item=2666273249&perks=4049631843
 
-//notes:
-Envious Arsenal | Chain Reaction
-Envious Assassin | One for All
-Demolitionist | Rolling Storm
+//notes:[Envious Arsenal, Envious Assassin, Demolitionist] [Chain Reaction, One for All, Rolling Storm]
 dimwishlist:item=657927352&perks=3523296417,2396489472
 dimwishlist:item=657927352&perks=3523296417,3218042543
 dimwishlist:item=657927352&perks=3523296417,4049631843
@@ -3763,10 +3429,7 @@ dimwishlist:item=657927352&perks=2396489472
 dimwishlist:item=657927352&perks=3218042543
 dimwishlist:item=657927352&perks=4049631843
 
-//notes:
-Envious Arsenal | Bait and Switch
- | Cascade Point
- | Explosive Light
+//notes:[Envious Arsenal] [Bait and Switch, Cascade Point, Explosive Light]
 dimwishlist:item=2168486467&perks=3987942396,3078487919
 dimwishlist:item=2168486467&perks=3987942396,3194351027
 dimwishlist:item=2168486467&perks=3987942396,3751912585
@@ -3781,10 +3444,7 @@ dimwishlist:item=2168486467&perks=3078487919
 dimwishlist:item=2168486467&perks=3194351027
 dimwishlist:item=2168486467&perks=3751912585
 
-//notes:
-Envious Arsenal | Bait and Switch
- | Cascade Point
- | Explosive Light
+//notes:[Envious Arsenal] [Bait and Switch, Cascade Point, Explosive Light]
 dimwishlist:item=2039776723&perks=3987942396,3078487919
 dimwishlist:item=2039776723&perks=3987942396,3194351027
 dimwishlist:item=2039776723&perks=3987942396,3751912585
@@ -3799,10 +3459,7 @@ dimwishlist:item=2039776723&perks=3078487919
 dimwishlist:item=2039776723&perks=3194351027
 dimwishlist:item=2039776723&perks=3751912585
 
-//notes:
-Envious Arsenal | Bait and Switch
-Cascade Point | Explosive Light
-Attrition Orbs | Surrounded
+//notes:[Envious Arsenal, Cascade Point, Attrition Orbs] [Bait and Switch, Explosive Light, Surrounded]
 dimwishlist:item=1762785662&perks=3751912585,3078487919
 dimwishlist:item=1762785662&perks=3751912585,3194351027
 dimwishlist:item=1762785662&perks=3751912585,3708227201
@@ -3837,9 +3494,7 @@ dimwishlist:item=1762785662&perks=3078487919
 dimwishlist:item=1762785662&perks=3194351027
 dimwishlist:item=1762785662&perks=3708227201
 
-//notes:
-Envious Assassin | Cascade Point
- | Full Court
+//notes:[Envious Assassin] [Cascade Point, Full Court]
 dimwishlist:item=867154247&perks=968510818,2888557110
 dimwishlist:item=867154247&perks=968510818,3751912585
 dimwishlist:item=867154247&perks=2888557110,3751912585
@@ -3848,10 +3503,7 @@ dimwishlist:item=867154247&perks=968510818
 dimwishlist:item=867154247&perks=2888557110
 dimwishlist:item=867154247&perks=3751912585
 
-//notes:
-Envious Arsenal | Bait and Switch
- | Cascade Point
- | Explosive Light
+//notes:[Envious Arsenal] [Bait and Switch, Cascade Point, Explosive Light]
 dimwishlist:item=2599338625&perks=3987942396,3078487919
 dimwishlist:item=2599338625&perks=3987942396,3194351027
 dimwishlist:item=2599338625&perks=3987942396,3751912585
@@ -3866,10 +3518,7 @@ dimwishlist:item=2599338625&perks=3078487919
 dimwishlist:item=2599338625&perks=3194351027
 dimwishlist:item=2599338625&perks=3751912585
 
-//notes:
-Envious Assassin | Bait and Switch
-Cascade Point | Explosive Light
-Chain Reaction | Deconstruct
+//notes:[Envious Assassin, Cascade Point, Chain Reaction] [Bait and Switch, Explosive Light, Deconstruct]
 dimwishlist:item=2228325504&perks=2396489472,3078487919
 dimwishlist:item=2228325504&perks=2396489472,3194351027
 dimwishlist:item=2228325504&perks=2396489472,3993379141
@@ -3916,10 +3565,7 @@ dimwishlist:item=2228325504&perks=3194351027
 dimwishlist:item=2228325504&perks=3993379141
 dimwishlist:item=2228325504&perks=1164602481
 
-//notes:
-Envious Assassin | Bait and Switch
-Cascade Point | Explosive Light
-Chain Reaction | Deconstruct
+//notes:[Envious Assassin, Cascade Point, Chain Reaction] [Bait and Switch, Explosive Light, Deconstruct]
 dimwishlist:item=218335759&perks=2396489472,3078487919
 dimwishlist:item=218335759&perks=2396489472,3194351027
 dimwishlist:item=218335759&perks=2396489472,3993379141
@@ -3966,10 +3612,7 @@ dimwishlist:item=218335759&perks=3194351027
 dimwishlist:item=218335759&perks=3993379141
 dimwishlist:item=218335759&perks=1164602481
 
-//notes:
-Envious Assassin | Bait and Switch
-Cascade Point | Explosive Light
-Chain Reaction | Deconstruct
+//notes:[Envious Assassin, Cascade Point, Chain Reaction] [Bait and Switch, Explosive Light, Deconstruct]
 dimwishlist:item=568611923&perks=2396489472,3078487919
 dimwishlist:item=568611923&perks=2396489472,3194351027
 dimwishlist:item=568611923&perks=2396489472,3993379141
@@ -4016,10 +3659,7 @@ dimwishlist:item=568611923&perks=3194351027
 dimwishlist:item=568611923&perks=3993379141
 dimwishlist:item=568611923&perks=1164602481
 
-//notes:
-Relentless Strikes | Elemental Honing
- | Surrounded
- | Redirection
+//notes:[Relentless Strikes] [Elemental Honing, Surrounded, Redirection]
 dimwishlist:item=4221591387&perks=1749209109,3201496230
 dimwishlist:item=4221591387&perks=1749209109,3708227201
 dimwishlist:item=4221591387&perks=1749209109,1089671869
@@ -4034,10 +3674,7 @@ dimwishlist:item=4221591387&perks=3201496230
 dimwishlist:item=4221591387&perks=3708227201
 dimwishlist:item=4221591387&perks=1089671869
 
-//notes:
-Relentless Strikes | Elemental Honing
- | Surrounded
- | Redirection
+//notes:[Relentless Strikes] [Elemental Honing, Surrounded, Redirection]
 dimwishlist:item=547165496&perks=1749209109,3201496230
 dimwishlist:item=547165496&perks=1749209109,3708227201
 dimwishlist:item=547165496&perks=1749209109,1089671869
@@ -4052,10 +3689,7 @@ dimwishlist:item=547165496&perks=3201496230
 dimwishlist:item=547165496&perks=3708227201
 dimwishlist:item=547165496&perks=1089671869
 
-//notes:
-Relentless Strikes | Elemental Honing
- | Surrounded
- | Redirection
+//notes:[Relentless Strikes] [Elemental Honing, Surrounded, Redirection]
 dimwishlist:item=2712683313&perks=1749209109,3201496230
 dimwishlist:item=2712683313&perks=1749209109,3708227201
 dimwishlist:item=2712683313&perks=1749209109,1089671869
@@ -4070,10 +3704,7 @@ dimwishlist:item=2712683313&perks=3201496230
 dimwishlist:item=2712683313&perks=3708227201
 dimwishlist:item=2712683313&perks=1089671869
 
-//notes:
-Relentless Strikes | Elemental Honing
- | Surrounded
- | Redirection
+//notes:[Relentless Strikes] [Elemental Honing, Surrounded, Redirection]
 dimwishlist:item=3054597646&perks=1749209109,3201496230
 dimwishlist:item=3054597646&perks=1749209109,3708227201
 dimwishlist:item=3054597646&perks=1749209109,1089671869
@@ -4088,9 +3719,7 @@ dimwishlist:item=3054597646&perks=3201496230
 dimwishlist:item=3054597646&perks=3708227201
 dimwishlist:item=3054597646&perks=1089671869
 
-//notes:
-Eager Edge | Cold Steel
- | Demolitionist
+//notes:[Eager Edge] [Cold Steel, Demolitionist]
 dimwishlist:item=2889501828&perks=2077819806,3523296417
 dimwishlist:item=2889501828&perks=2077819806,3650930298
 dimwishlist:item=2889501828&perks=3523296417,3650930298
@@ -4099,9 +3728,7 @@ dimwishlist:item=2889501828&perks=2077819806
 dimwishlist:item=2889501828&perks=3523296417
 dimwishlist:item=2889501828&perks=3650930298
 
-//notes:
-Eager Edge | Cold Steel
- | Demolitionist
+//notes:[Eager Edge] [Cold Steel, Demolitionist]
 dimwishlist:item=1354727549&perks=2077819806,3523296417
 dimwishlist:item=1354727549&perks=2077819806,3650930298
 dimwishlist:item=1354727549&perks=3523296417,3650930298
@@ -4110,9 +3737,7 @@ dimwishlist:item=1354727549&perks=2077819806
 dimwishlist:item=1354727549&perks=3523296417
 dimwishlist:item=1354727549&perks=3650930298
 
-//notes:
-Relentless Strikes | Surrounded
- | Whirlwind Blade
+//notes:[Relentless Strikes] [Surrounded, Whirlwind Blade]
 dimwishlist:item=3629968765&perks=1749209109,3708227201
 dimwishlist:item=3629968765&perks=1749209109,3913600130
 dimwishlist:item=3629968765&perks=3708227201,3913600130
@@ -4121,9 +3746,7 @@ dimwishlist:item=3629968765&perks=1749209109
 dimwishlist:item=3629968765&perks=3708227201
 dimwishlist:item=3629968765&perks=3913600130
 
-//notes:
-Relentless Strikes | Surrounded
- | Whirlwind Blade
+//notes:[Relentless Strikes] [Surrounded, Whirlwind Blade]
 dimwishlist:item=287042892&perks=1749209109,3708227201
 dimwishlist:item=287042892&perks=1749209109,3913600130
 dimwishlist:item=287042892&perks=3708227201,3913600130
@@ -4132,10 +3755,7 @@ dimwishlist:item=287042892&perks=1749209109
 dimwishlist:item=287042892&perks=3708227201
 dimwishlist:item=287042892&perks=3913600130
 
-//notes:
-Relentless Strikes | Chaos Reshaped
-Attrition Orbs | Whirlwind Blade
-Deconstruct | Surrounded
+//notes:[Relentless Strikes, Attrition Orbs, Deconstruct] [Chaos Reshaped, Whirlwind Blade, Surrounded]
 dimwishlist:item=3569407878&perks=3993379141,3640170453
 dimwishlist:item=3569407878&perks=3993379141,3708227201
 dimwishlist:item=3569407878&perks=3993379141,3913600130
@@ -4183,10 +3803,7 @@ dimwishlist:item=3569407878&perks=3640170453
 dimwishlist:item=3569407878&perks=3708227201
 dimwishlist:item=3569407878&perks=3913600130
 
-//notes:
-Relentless Strikes | Chaos Reshaped
-Attrition Orbs | Whirlwind Blade
-Deconstruct | Surrounded
+//notes:[Relentless Strikes, Attrition Orbs, Deconstruct] [Chaos Reshaped, Whirlwind Blade, Surrounded]
 dimwishlist:item=2001697739&perks=3993379141,3640170453
 dimwishlist:item=2001697739&perks=3993379141,3708227201
 dimwishlist:item=2001697739&perks=3993379141,3913600130
@@ -4234,10 +3851,7 @@ dimwishlist:item=2001697739&perks=3640170453
 dimwishlist:item=2001697739&perks=3708227201
 dimwishlist:item=2001697739&perks=3913600130
 
-//notes:
-Chain Reaction | Eager Edge
-Frenzy | Bait and Switch
- | Surrounded
+//notes:[Chain Reaction, Frenzy] [Eager Edge, Bait and Switch, Surrounded]
 dimwishlist:item=243425374&perks=2396489472,3078487919
 dimwishlist:item=243425374&perks=2396489472,3708227201
 dimwishlist:item=243425374&perks=2396489472,2077819806
@@ -4261,10 +3875,7 @@ dimwishlist:item=243425374&perks=3078487919
 dimwishlist:item=243425374&perks=3708227201
 dimwishlist:item=243425374&perks=2077819806
 
-//notes:
-Chain Reaction | Eager Edge
-Frenzy | Bait and Switch
- | Surrounded
+//notes:[Chain Reaction, Frenzy] [Eager Edge, Bait and Switch, Surrounded]
 dimwishlist:item=614426548&perks=2396489472,3078487919
 dimwishlist:item=614426548&perks=2396489472,3708227201
 dimwishlist:item=614426548&perks=2396489472,2077819806
@@ -4288,10 +3899,7 @@ dimwishlist:item=614426548&perks=3078487919
 dimwishlist:item=614426548&perks=3708227201
 dimwishlist:item=614426548&perks=2077819806
 
-//notes:
-Chain Reaction | Eager Edge
-Frenzy | Bait and Switch
- | Surrounded
+//notes:[Chain Reaction, Frenzy] [Eager Edge, Bait and Switch, Surrounded]
 dimwishlist:item=1815105249&perks=2396489472,3078487919
 dimwishlist:item=1815105249&perks=2396489472,3708227201
 dimwishlist:item=1815105249&perks=2396489472,2077819806
@@ -4315,10 +3923,7 @@ dimwishlist:item=1815105249&perks=3078487919
 dimwishlist:item=1815105249&perks=3708227201
 dimwishlist:item=1815105249&perks=2077819806
 
-//notes:
-Envious Arsenal | Elemental Honing
-Clown Cartridge | Explosive Light
-Field Prep | Bipod
+//notes:[Envious Arsenal, Clown Cartridge, Field Prep] [Elemental Honing, Explosive Light, Bipod]
 dimwishlist:item=694275488&perks=2284787283,3194351027
 dimwishlist:item=694275488&perks=2284787283,1089671869
 dimwishlist:item=694275488&perks=2284787283,1439600632
@@ -4381,10 +3986,7 @@ dimwishlist:item=694275488&perks=3194351027
 dimwishlist:item=694275488&perks=1089671869
 dimwishlist:item=694275488&perks=1439600632
 
-//notes:
-Envious Arsenal | Elemental Honing
-Reconstruction | Bait and Switch
- | Bipod
+//notes:[Envious Arsenal, Reconstruction] [Elemental Honing, Bait and Switch, Bipod]
 dimwishlist:item=2760833884&perks=3987942396,3078487919
 dimwishlist:item=2760833884&perks=3987942396,1089671869
 dimwishlist:item=2760833884&perks=3987942396,1439600632
@@ -4408,10 +4010,7 @@ dimwishlist:item=2760833884&perks=3078487919
 dimwishlist:item=2760833884&perks=1089671869
 dimwishlist:item=2760833884&perks=1439600632
 
-//notes:
-Envious Arsenal | Elemental Honing
-Reconstruction | Bait and Switch
- | Bipod
+//notes:[Envious Arsenal, Reconstruction] [Elemental Honing, Bait and Switch, Bipod]
 dimwishlist:item=291447487&perks=3987942396,3078487919
 dimwishlist:item=291447487&perks=3987942396,1089671869
 dimwishlist:item=291447487&perks=3987942396,1439600632
@@ -4435,10 +4034,7 @@ dimwishlist:item=291447487&perks=3078487919
 dimwishlist:item=291447487&perks=1089671869
 dimwishlist:item=291447487&perks=1439600632
 
-//notes:
-Envious Arsenal | Elemental Honing
-Reconstruction | Bait and Switch
- | Bipod
+//notes:[Envious Arsenal, Reconstruction] [Elemental Honing, Bait and Switch, Bipod]
 dimwishlist:item=839786290&perks=3987942396,3078487919
 dimwishlist:item=839786290&perks=3987942396,1089671869
 dimwishlist:item=839786290&perks=3987942396,1439600632
@@ -4462,10 +4058,7 @@ dimwishlist:item=839786290&perks=3078487919
 dimwishlist:item=839786290&perks=1089671869
 dimwishlist:item=839786290&perks=1439600632
 
-//notes:
-Envious Arsenal | Elemental Honing
-Reconstruction | Bait and Switch
- | Bipod
+//notes:[Envious Arsenal, Reconstruction] [Elemental Honing, Bait and Switch, Bipod]
 dimwishlist:item=1817605554&perks=3987942396,3078487919
 dimwishlist:item=1817605554&perks=3987942396,1089671869
 dimwishlist:item=1817605554&perks=3987942396,1439600632
@@ -4489,10 +4082,7 @@ dimwishlist:item=1817605554&perks=3078487919
 dimwishlist:item=1817605554&perks=1089671869
 dimwishlist:item=1817605554&perks=1439600632
 
-//notes:
-Envious Arsenal | Elemental Honing
-Reconstruction | Bait and Switch
- | Bipod
+//notes:[Envious Arsenal, Reconstruction] [Elemental Honing, Bait and Switch, Bipod]
 dimwishlist:item=2126543269&perks=3987942396,3078487919
 dimwishlist:item=2126543269&perks=3987942396,1089671869
 dimwishlist:item=2126543269&perks=3987942396,1439600632
@@ -4516,10 +4106,7 @@ dimwishlist:item=2126543269&perks=3078487919
 dimwishlist:item=2126543269&perks=1089671869
 dimwishlist:item=2126543269&perks=1439600632
 
-//notes:
-Envious Arsenal | Bait and Switch
-Cluster Bomb | Elemental Honing
-Overflow | Bipod
+//notes:[Envious Arsenal, Cluster Bomb, Overflow] [Bait and Switch, Elemental Honing, Bipod]
 dimwishlist:item=2265407516&perks=3643424744,3078487919
 dimwishlist:item=2265407516&perks=3643424744,1089671869
 dimwishlist:item=2265407516&perks=3643424744,1439600632
@@ -4554,10 +4141,7 @@ dimwishlist:item=2265407516&perks=3078487919
 dimwishlist:item=2265407516&perks=1089671869
 dimwishlist:item=2265407516&perks=1439600632
 
-//notes:
-Envious Arsenal | Bait and Switch
-Cluster Bomb | Elemental Honing
-Overflow | Bipod
+//notes:[Envious Arsenal, Cluster Bomb, Overflow] [Bait and Switch, Elemental Honing, Bipod]
 dimwishlist:item=4050645223&perks=3643424744,3078487919
 dimwishlist:item=4050645223&perks=3643424744,1089671869
 dimwishlist:item=4050645223&perks=3643424744,1439600632
@@ -4592,10 +4176,7 @@ dimwishlist:item=4050645223&perks=3078487919
 dimwishlist:item=4050645223&perks=1089671869
 dimwishlist:item=4050645223&perks=1439600632
 
-//notes:
-Envious Arsenal | Bait and Switch
-Cluster Bomb | Elemental Honing
-Overflow | Bipod
+//notes:[Envious Arsenal, Cluster Bomb, Overflow] [Bait and Switch, Elemental Honing, Bipod]
 dimwishlist:item=3623686757&perks=3643424744,3078487919
 dimwishlist:item=3623686757&perks=3643424744,1089671869
 dimwishlist:item=3623686757&perks=3643424744,1439600632
@@ -4630,10 +4211,7 @@ dimwishlist:item=3623686757&perks=3078487919
 dimwishlist:item=3623686757&perks=1089671869
 dimwishlist:item=3623686757&perks=1439600632
 
-//notes:
-Envious Arsenal | Bait and Switch
-Cluster Bomb | Elemental Honing
-Overflow | Bipod
+//notes:[Envious Arsenal, Cluster Bomb, Overflow] [Bait and Switch, Elemental Honing, Bipod]
 dimwishlist:item=1921159786&perks=3643424744,3078487919
 dimwishlist:item=1921159786&perks=3643424744,1089671869
 dimwishlist:item=1921159786&perks=3643424744,1439600632
@@ -4668,10 +4246,7 @@ dimwishlist:item=1921159786&perks=3078487919
 dimwishlist:item=1921159786&perks=1089671869
 dimwishlist:item=1921159786&perks=1439600632
 
-//notes:
-Reconstruction | Bipod
-Clown Cartridge | Explosive Light
-Slideshot | Surrounded
+//notes:[Reconstruction, Clown Cartridge, Slideshot] [Bipod, Explosive Light, Surrounded]
 dimwishlist:item=1719687748&perks=2284787283,3194351027
 dimwishlist:item=1719687748&perks=2284787283,3708227201
 dimwishlist:item=1719687748&perks=2284787283,1439600632
@@ -4706,10 +4281,7 @@ dimwishlist:item=1719687748&perks=3194351027
 dimwishlist:item=1719687748&perks=3708227201
 dimwishlist:item=1719687748&perks=1439600632
 
-//notes:
-Envious Arsenal | Bait and Switch
-Air Trigger | Explosive Light
-Withering Gaze | Bipod
+//notes:[Envious Arsenal, Air Trigger, Withering Gaze] [Bait and Switch, Explosive Light, Bipod]
 dimwishlist:item=3009199534&perks=3987942396,3078487919
 dimwishlist:item=3009199534&perks=3987942396,3194351027
 dimwishlist:item=3009199534&perks=3987942396,1439600632
@@ -4744,10 +4316,7 @@ dimwishlist:item=3009199534&perks=3078487919
 dimwishlist:item=3009199534&perks=3194351027
 dimwishlist:item=3009199534&perks=1439600632
 
-//notes:
-Envious Arsenal | Bait and Switch
-Air Trigger | Explosive Light
-Withering Gaze | Bipod
+//notes:[Envious Arsenal, Air Trigger, Withering Gaze] [Bait and Switch, Explosive Light, Bipod]
 dimwishlist:item=958384347&perks=3987942396,3078487919
 dimwishlist:item=958384347&perks=3987942396,3194351027
 dimwishlist:item=958384347&perks=3987942396,1439600632
@@ -4782,10 +4351,7 @@ dimwishlist:item=958384347&perks=3078487919
 dimwishlist:item=958384347&perks=3194351027
 dimwishlist:item=958384347&perks=1439600632
 
-//notes:
-Envious Arsenal | Bait and Switch
-Air Trigger | Explosive Light
-Withering Gaze | Bipod
+//notes:[Envious Arsenal, Air Trigger, Withering Gaze] [Bait and Switch, Explosive Light, Bipod]
 dimwishlist:item=303107619&perks=3987942396,3078487919
 dimwishlist:item=303107619&perks=3987942396,3194351027
 dimwishlist:item=303107619&perks=3987942396,1439600632
@@ -4820,10 +4386,7 @@ dimwishlist:item=303107619&perks=3078487919
 dimwishlist:item=303107619&perks=3194351027
 dimwishlist:item=303107619&perks=1439600632
 
-//notes:
-Envious Arsenal | Bait and Switch
-Air Trigger | Explosive Light
-Withering Gaze | Bipod
+//notes:[Envious Arsenal, Air Trigger, Withering Gaze] [Bait and Switch, Explosive Light, Bipod]
 dimwishlist:item=1366917989&perks=3987942396,3078487919
 dimwishlist:item=1366917989&perks=3987942396,3194351027
 dimwishlist:item=1366917989&perks=3987942396,1439600632
@@ -4858,9 +4421,7 @@ dimwishlist:item=1366917989&perks=3078487919
 dimwishlist:item=1366917989&perks=3194351027
 dimwishlist:item=1366917989&perks=1439600632
 
-//notes:
-Rewind Rounds | Bait and Switch
-Cornered | Surrounded
+//notes:[Rewind Rounds, Cornered] [Bait and Switch, Surrounded]
 dimwishlist:item=2591257541&perks=2578928832,3078487919
 dimwishlist:item=2591257541&perks=2578928832,3708227201
 dimwishlist:item=2591257541&perks=3418782618,3078487919
@@ -4896,9 +4457,7 @@ dimwishlist:item=2591257541&perks=1799762209
 dimwishlist:item=2591257541&perks=3078487919
 dimwishlist:item=2591257541&perks=3708227201
 
-//notes:
-Rewind Rounds | Bait and Switch
-Cornered | Surrounded
+//notes:[Rewind Rounds, Cornered] [Bait and Switch, Surrounded]
 dimwishlist:item=1492522228&perks=2578928832,3078487919
 dimwishlist:item=1492522228&perks=2578928832,3708227201
 dimwishlist:item=1492522228&perks=3418782618,3078487919
@@ -4934,9 +4493,7 @@ dimwishlist:item=1492522228&perks=1799762209
 dimwishlist:item=1492522228&perks=3078487919
 dimwishlist:item=1492522228&perks=3708227201
 
-//notes:
-Envious Assassin | Precision Instrument
- | Firing Line
+//notes:[Envious Assassin] [Precision Instrument, Firing Line]
 dimwishlist:item=3615421669&perks=968510818,555281244
 dimwishlist:item=3615421669&perks=968510818,1771339417
 dimwishlist:item=3615421669&perks=555281244,1771339417
@@ -4945,21 +4502,17 @@ dimwishlist:item=3615421669&perks=968510818
 dimwishlist:item=3615421669&perks=555281244
 dimwishlist:item=3615421669&perks=1771339417
 
-//notes:
-Fourth Time's the Charm | Bait and Switch
+//notes:[Fourth Time's the Charm] [Bait and Switch]
 dimwishlist:item=999767358&perks=1354429876,3078487919
 dimwishlist:item=999767358&perks=1354429876
 dimwishlist:item=999767358&perks=3078487919
 
-//notes:
-Fourth Time's the Charm | Bait and Switch
+//notes:[Fourth Time's the Charm] [Bait and Switch]
 dimwishlist:item=2886339027&perks=1354429876,3078487919
 dimwishlist:item=2886339027&perks=1354429876
 dimwishlist:item=2886339027&perks=3078487919
 
-//notes:
-Clown Cartridge | Firing Line
-Auto-Loading Holster | Frenzy
+//notes:[Clown Cartridge, Auto-Loading Holster] [Firing Line, Frenzy]
 dimwishlist:item=3652506829&perks=2284787283,4104185692
 dimwishlist:item=3652506829&perks=2284787283,1771339417
 dimwishlist:item=3652506829&perks=3300816228,4104185692
@@ -4975,9 +4528,7 @@ dimwishlist:item=3652506829&perks=3300816228
 dimwishlist:item=3652506829&perks=4104185692
 dimwishlist:item=3652506829&perks=1771339417
 
-//notes:
-Envious Arsenal | Bait and Switch
-Envious Assassin | 
+//notes:[Envious Arsenal, Envious Assassin] [Bait and Switch]
 dimwishlist:item=3483485727&perks=3987942396,3078487919
 dimwishlist:item=3483485727&perks=968510818,3078487919
 dimwishlist:item=3483485727&perks=3987942396,968510818
@@ -4987,10 +4538,7 @@ dimwishlist:item=3483485727&perks=3078487919
 dimwishlist:item=3483485727&perks=968510818
 dimwishlist:item=3483485727&perks=3078487919
 
-//notes:
-Reciprocity | Attrition Orbs
-Slice | Tear
-Demolitionist | Frenzy
+//notes:[Reciprocity, Slice, Demolitionist] [Attrition Orbs, Tear, Frenzy]
 dimwishlist:item=2987244302&perks=3523296417,4104185692
 dimwishlist:item=2987244302&perks=3523296417,243981275
 dimwishlist:item=2987244302&perks=3523296417,960997401
@@ -5025,10 +4573,7 @@ dimwishlist:item=2987244302&perks=4104185692
 dimwishlist:item=2987244302&perks=243981275
 dimwishlist:item=2987244302&perks=960997401
 
-//notes:
-Reciprocity | Attrition Orbs
-Slice | Tear
-Demolitionist | Frenzy
+//notes:[Reciprocity, Slice, Demolitionist] [Attrition Orbs, Tear, Frenzy]
 dimwishlist:item=3229982889&perks=3523296417,4104185692
 dimwishlist:item=3229982889&perks=3523296417,243981275
 dimwishlist:item=3229982889&perks=3523296417,960997401
@@ -5063,10 +4608,7 @@ dimwishlist:item=3229982889&perks=4104185692
 dimwishlist:item=3229982889&perks=243981275
 dimwishlist:item=3229982889&perks=960997401
 
-//notes:
-Reciprocity | Attrition Orbs
-Slice | Tear
-Demolitionist | Frenzy
+//notes:[Reciprocity, Slice, Demolitionist] [Attrition Orbs, Tear, Frenzy]
 dimwishlist:item=3485029080&perks=3523296417,4104185692
 dimwishlist:item=3485029080&perks=3523296417,243981275
 dimwishlist:item=3485029080&perks=3523296417,960997401
@@ -5101,10 +4643,7 @@ dimwishlist:item=3485029080&perks=4104185692
 dimwishlist:item=3485029080&perks=243981275
 dimwishlist:item=3485029080&perks=960997401
 
-//notes:
-Reciprocity | Attrition Orbs
-Slice | Tear
-Demolitionist | Frenzy
+//notes:[Reciprocity, Slice, Demolitionist] [Attrition Orbs, Tear, Frenzy]
 dimwishlist:item=601574723&perks=3523296417,4104185692
 dimwishlist:item=601574723&perks=3523296417,243981275
 dimwishlist:item=601574723&perks=3523296417,960997401
@@ -5139,10 +4678,7 @@ dimwishlist:item=601574723&perks=4104185692
 dimwishlist:item=601574723&perks=243981275
 dimwishlist:item=601574723&perks=960997401
 
-//notes:
-Physic | Incandescent
-Demolitionist | Attrition Orbs
- | Circle of Life
+//notes:[Physic, Demolitionist] [Incandescent, Attrition Orbs, Circle of Life]
 dimwishlist:item=1801007332&perks=2980589453,2298656195
 dimwishlist:item=1801007332&perks=2980589453,4293542123
 dimwishlist:item=1801007332&perks=2980589453,243981275
@@ -5166,9 +4702,7 @@ dimwishlist:item=1801007332&perks=2298656195
 dimwishlist:item=1801007332&perks=4293542123
 dimwishlist:item=1801007332&perks=243981275
 
-//notes:
-Attrition Orbs | Kinetic Tremors
-Demolitionist | Onslaught
+//notes:[Attrition Orbs, Demolitionist] [Kinetic Tremors, Onslaught]
 dimwishlist:item=2826850739&perks=3523296417,3891536761
 dimwishlist:item=2826850739&perks=3523296417,95528736
 dimwishlist:item=2826850739&perks=243981275,3891536761
@@ -5184,9 +4718,7 @@ dimwishlist:item=2826850739&perks=243981275
 dimwishlist:item=2826850739&perks=3891536761
 dimwishlist:item=2826850739&perks=95528736
 
-//notes:
-Attrition Orbs | Kinetic Tremors
-Demolitionist | Onslaught
+//notes:[Attrition Orbs, Demolitionist] [Kinetic Tremors, Onslaught]
 dimwishlist:item=4024037919&perks=3523296417,3891536761
 dimwishlist:item=4024037919&perks=3523296417,95528736
 dimwishlist:item=4024037919&perks=243981275,3891536761
@@ -5202,9 +4734,7 @@ dimwishlist:item=4024037919&perks=243981275
 dimwishlist:item=4024037919&perks=3891536761
 dimwishlist:item=4024037919&perks=95528736
 
-//notes:
-Attrition Orbs | Kinetic Tremors
-Demolitionist | Onslaught
+//notes:[Attrition Orbs, Demolitionist] [Kinetic Tremors, Onslaught]
 dimwishlist:item=1644162710&perks=3523296417,3891536761
 dimwishlist:item=1644162710&perks=3523296417,95528736
 dimwishlist:item=1644162710&perks=243981275,3891536761
@@ -5220,9 +4750,7 @@ dimwishlist:item=1644162710&perks=243981275
 dimwishlist:item=1644162710&perks=3891536761
 dimwishlist:item=1644162710&perks=95528736
 
-//notes:
-Rewind Rounds | Frenzy
-Demolitionist | Hatchling
+//notes:[Rewind Rounds, Demolitionist] [Frenzy, Hatchling]
 dimwishlist:item=484515708&perks=2578928832,4104185692
 dimwishlist:item=484515708&perks=2578928832,831391274
 dimwishlist:item=484515708&perks=3418782618,4104185692
@@ -5258,9 +4786,7 @@ dimwishlist:item=484515708&perks=3708253561
 dimwishlist:item=484515708&perks=4104185692
 dimwishlist:item=484515708&perks=831391274
 
-//notes:
-Rewind Rounds | Frenzy
-Demolitionist | Hatchling
+//notes:[Rewind Rounds, Demolitionist] [Frenzy, Hatchling]
 dimwishlist:item=342514437&perks=2578928832,4104185692
 dimwishlist:item=342514437&perks=2578928832,831391274
 dimwishlist:item=342514437&perks=3418782618,4104185692
@@ -5296,9 +4822,7 @@ dimwishlist:item=342514437&perks=3708253561
 dimwishlist:item=342514437&perks=4104185692
 dimwishlist:item=342514437&perks=831391274
 
-//notes:
-Attrition Orbs | Headstone
-Shoot to Loot | Desperate Measures
+//notes:[Attrition Orbs, Shoot to Loot] [Headstone, Desperate Measures]
 dimwishlist:item=3685470415&perks=3700496672,124408337
 dimwishlist:item=3685470415&perks=3700496672,2109543898
 dimwishlist:item=3685470415&perks=243981275,124408337
@@ -5314,9 +4838,7 @@ dimwishlist:item=3685470415&perks=243981275
 dimwishlist:item=3685470415&perks=124408337
 dimwishlist:item=3685470415&perks=2109543898
 
-//notes:
-Heal Clip | Incandescent
-Enlightened Action | 
+//notes:[Heal Clip, Enlightened Action] [Incandescent]
 dimwishlist:item=833898322&perks=3017780555,4293542123
 dimwishlist:item=833898322&perks=3828510309,4293542123
 dimwishlist:item=833898322&perks=3960499185,4293542123
@@ -5342,9 +4864,7 @@ dimwishlist:item=833898322&perks=4293542123
 dimwishlist:item=833898322&perks=777589557
 dimwishlist:item=833898322&perks=4293542123
 
-//notes:
-Heal Clip | Incandescent
-Enlightened Action | 
+//notes:[Heal Clip, Enlightened Action] [Incandescent]
 dimwishlist:item=3782662983&perks=3017780555,4293542123
 dimwishlist:item=3782662983&perks=3828510309,4293542123
 dimwishlist:item=3782662983&perks=3960499185,4293542123
@@ -5370,9 +4890,7 @@ dimwishlist:item=3782662983&perks=4293542123
 dimwishlist:item=3782662983&perks=777589557
 dimwishlist:item=3782662983&perks=4293542123
 
-//notes:
-Attrition Orbs | Jolting Feedback
-Eddy Current | 
+//notes:[Attrition Orbs, Eddy Current] [Jolting Feedback]
 dimwishlist:item=4232480042&perks=243981275,3966416502
 dimwishlist:item=4232480042&perks=684456054,3966416502
 dimwishlist:item=4232480042&perks=243981275,684456054
@@ -5382,9 +4900,7 @@ dimwishlist:item=4232480042&perks=3966416502
 dimwishlist:item=4232480042&perks=684456054
 dimwishlist:item=4232480042&perks=3966416502
 
-//notes:
-Destabilizing Rounds | Repulsor Brace
-Demolitionist | One for All
+//notes:[Destabilizing Rounds, Demolitionist] [Repulsor Brace, One for All]
 dimwishlist:item=3385326721&perks=3523296417,4049631843
 dimwishlist:item=3385326721&perks=3523296417,776531651
 dimwishlist:item=3385326721&perks=2048641572,4049631843
@@ -5400,9 +4916,7 @@ dimwishlist:item=3385326721&perks=2048641572
 dimwishlist:item=3385326721&perks=4049631843
 dimwishlist:item=3385326721&perks=776531651
 
-//notes:
-Destabilizing Rounds | Repulsor Brace
-Demolitionist | One for All
+//notes:[Destabilizing Rounds, Demolitionist] [Repulsor Brace, One for All]
 dimwishlist:item=1992309064&perks=3523296417,4049631843
 dimwishlist:item=1992309064&perks=3523296417,776531651
 dimwishlist:item=1992309064&perks=2048641572,4049631843
@@ -5418,9 +4932,7 @@ dimwishlist:item=1992309064&perks=2048641572
 dimwishlist:item=1992309064&perks=4049631843
 dimwishlist:item=1992309064&perks=776531651
 
-//notes:
-Archer's Tempo | Kinetic Tremors
- | Firefly
+//notes:[Archer's Tempo] [Kinetic Tremors, Firefly]
 dimwishlist:item=3621336854&perks=201365942,3824105627
 dimwishlist:item=3621336854&perks=201365942,3891536761
 dimwishlist:item=3621336854&perks=201365942,1561789734
@@ -5435,9 +4947,7 @@ dimwishlist:item=3621336854&perks=3824105627
 dimwishlist:item=3621336854&perks=3891536761
 dimwishlist:item=3621336854&perks=1561789734
 
-//notes:
-Archer's Tempo | Kinetic Tremors
- | Firefly
+//notes:[Archer's Tempo] [Kinetic Tremors, Firefly]
 dimwishlist:item=4095896073&perks=201365942,3824105627
 dimwishlist:item=4095896073&perks=201365942,3891536761
 dimwishlist:item=4095896073&perks=201365942,1561789734
@@ -5452,10 +4962,7 @@ dimwishlist:item=4095896073&perks=3824105627
 dimwishlist:item=4095896073&perks=3891536761
 dimwishlist:item=4095896073&perks=1561789734
 
-//notes:
-Explosive Head | Hatchling
-Archer's Tempo | 
-Slice | 
+//notes:[Explosive Head, Archer's Tempo, Slice] [Hatchling]
 dimwishlist:item=839344841&perks=3365897133,831391274
 dimwishlist:item=839344841&perks=201365942,831391274
 dimwishlist:item=839344841&perks=923806249,831391274
@@ -5472,9 +4979,7 @@ dimwishlist:item=839344841&perks=831391274
 dimwishlist:item=839344841&perks=923806249
 dimwishlist:item=839344841&perks=831391274
 
-//notes:
-Archer's Tempo | Headstone
-Shoot to Loot | Explosive Head
+//notes:[Archer's Tempo, Shoot to Loot] [Headstone, Explosive Head]
 dimwishlist:item=45643573&perks=3700496672,3365897133
 dimwishlist:item=45643573&perks=3700496672,124408337
 dimwishlist:item=45643573&perks=201365942,3365897133
@@ -5490,10 +4995,7 @@ dimwishlist:item=45643573&perks=201365942
 dimwishlist:item=45643573&perks=3365897133
 dimwishlist:item=45643573&perks=124408337
 
-//notes:
-Dragonfly | Incandescent
-Explosive Head | One for All
-Archer's Tempo | 
+//notes:[Dragonfly, Explosive Head, Archer's Tempo] [Incandescent, One for All]
 dimwishlist:item=2721249463&perks=2848615171,4049631843
 dimwishlist:item=2721249463&perks=2848615171,4293542123
 dimwishlist:item=2721249463&perks=3365897133,4049631843
@@ -5529,10 +5031,7 @@ dimwishlist:item=2721249463&perks=201365942
 dimwishlist:item=2721249463&perks=4049631843
 dimwishlist:item=2721249463&perks=4293542123
 
-//notes:
-Dragonfly | Incandescent
-Explosive Head | One for All
-Archer's Tempo | 
+//notes:[Dragonfly, Explosive Head, Archer's Tempo] [Incandescent, One for All]
 dimwishlist:item=3388655311&perks=2848615171,4049631843
 dimwishlist:item=3388655311&perks=2848615171,4293542123
 dimwishlist:item=3388655311&perks=3365897133,4049631843
@@ -5568,10 +5067,7 @@ dimwishlist:item=3388655311&perks=201365942
 dimwishlist:item=3388655311&perks=4049631843
 dimwishlist:item=3388655311&perks=4293542123
 
-//notes:
-Dragonfly | Voltshot
-Archer's Tempo | Explosive Head
-Shoot to Loot | Chaos Reshaped
+//notes:[Dragonfly, Archer's Tempo, Shoot to Loot] [Voltshot, Explosive Head, Chaos Reshaped]
 dimwishlist:item=1770490683&perks=2848615171,2173046394
 dimwishlist:item=1770490683&perks=2848615171,3365897133
 dimwishlist:item=1770490683&perks=2848615171,3640170453
@@ -5619,10 +5115,7 @@ dimwishlist:item=1770490683&perks=2173046394
 dimwishlist:item=1770490683&perks=3365897133
 dimwishlist:item=1770490683&perks=3640170453
 
-//notes:
-Dragonfly | Voltshot
-Archer's Tempo | Explosive Head
-Shoot to Loot | Chaos Reshaped
+//notes:[Dragonfly, Archer's Tempo, Shoot to Loot] [Voltshot, Explosive Head, Chaos Reshaped]
 dimwishlist:item=1039915310&perks=2848615171,2173046394
 dimwishlist:item=1039915310&perks=2848615171,3365897133
 dimwishlist:item=1039915310&perks=2848615171,3640170453
@@ -5670,10 +5163,7 @@ dimwishlist:item=1039915310&perks=2173046394
 dimwishlist:item=1039915310&perks=3365897133
 dimwishlist:item=1039915310&perks=3640170453
 
-//notes:
-Repulsor Brace | Destabilizing Rounds
-Dragonfly | Demoralize
-Archer's Tempo | Explosive Head
+//notes:[Repulsor Brace, Dragonfly, Archer's Tempo] [Destabilizing Rounds, Demoralize, Explosive Head]
 dimwishlist:item=2291392465&perks=2848615171,3365897133
 dimwishlist:item=2291392465&perks=2848615171,1464081238
 dimwishlist:item=2291392465&perks=2848615171,2048641572
@@ -5721,10 +5211,7 @@ dimwishlist:item=2291392465&perks=3365897133
 dimwishlist:item=2291392465&perks=1464081238
 dimwishlist:item=2291392465&perks=2048641572
 
-//notes:
-Repulsor Brace | Destabilizing Rounds
-Dragonfly | Demoralize
-Archer's Tempo | Explosive Head
+//notes:[Repulsor Brace, Dragonfly, Archer's Tempo] [Destabilizing Rounds, Demoralize, Explosive Head]
 dimwishlist:item=3417731926&perks=2848615171,3365897133
 dimwishlist:item=3417731926&perks=2848615171,1464081238
 dimwishlist:item=3417731926&perks=2848615171,2048641572
@@ -5772,10 +5259,7 @@ dimwishlist:item=3417731926&perks=3365897133
 dimwishlist:item=3417731926&perks=1464081238
 dimwishlist:item=3417731926&perks=2048641572
 
-//notes:
-Repulsor Brace | Destabilizing Rounds
-Dragonfly | Demoralize
-Archer's Tempo | Explosive Head
+//notes:[Repulsor Brace, Dragonfly, Archer's Tempo] [Destabilizing Rounds, Demoralize, Explosive Head]
 dimwishlist:item=3949253499&perks=2848615171,3365897133
 dimwishlist:item=3949253499&perks=2848615171,1464081238
 dimwishlist:item=3949253499&perks=2848615171,2048641572
@@ -5823,10 +5307,7 @@ dimwishlist:item=3949253499&perks=3365897133
 dimwishlist:item=3949253499&perks=1464081238
 dimwishlist:item=3949253499&perks=2048641572
 
-//notes:
-Repulsor Brace | Destabilizing Rounds
-Dragonfly | Demoralize
-Archer's Tempo | Explosive Head
+//notes:[Repulsor Brace, Dragonfly, Archer's Tempo] [Destabilizing Rounds, Demoralize, Explosive Head]
 dimwishlist:item=1536325168&perks=2848615171,3365897133
 dimwishlist:item=1536325168&perks=2848615171,1464081238
 dimwishlist:item=1536325168&perks=2848615171,2048641572
@@ -5874,9 +5355,7 @@ dimwishlist:item=1536325168&perks=3365897133
 dimwishlist:item=1536325168&perks=1464081238
 dimwishlist:item=1536325168&perks=2048641572
 
-//notes:
-Demolitionist | Vorpal Weapon
-Enlightened Action | Frenzy
+//notes:[Demolitionist, Enlightened Action] [Vorpal Weapon, Frenzy]
 dimwishlist:item=2152484073&perks=3523296417,4104185692
 dimwishlist:item=2152484073&perks=3523296417,1546637391
 dimwishlist:item=2152484073&perks=3828510309,4104185692
@@ -5912,9 +5391,7 @@ dimwishlist:item=2152484073&perks=777589557
 dimwishlist:item=2152484073&perks=4104185692
 dimwishlist:item=2152484073&perks=1546637391
 
-//notes:
-Demolitionist | Vorpal Weapon
-Enlightened Action | Frenzy
+//notes:[Demolitionist, Enlightened Action] [Vorpal Weapon, Frenzy]
 dimwishlist:item=233423981&perks=3523296417,4104185692
 dimwishlist:item=233423981&perks=3523296417,1546637391
 dimwishlist:item=233423981&perks=3828510309,4104185692
@@ -5950,9 +5427,7 @@ dimwishlist:item=233423981&perks=777589557
 dimwishlist:item=233423981&perks=4104185692
 dimwishlist:item=233423981&perks=1546637391
 
-//notes:
-Demolitionist | Vorpal Weapon
-Enlightened Action | Frenzy
+//notes:[Demolitionist, Enlightened Action] [Vorpal Weapon, Frenzy]
 dimwishlist:item=1821529912&perks=3523296417,4104185692
 dimwishlist:item=1821529912&perks=3523296417,1546637391
 dimwishlist:item=1821529912&perks=3828510309,4104185692
@@ -5988,9 +5463,7 @@ dimwishlist:item=1821529912&perks=777589557
 dimwishlist:item=1821529912&perks=4104185692
 dimwishlist:item=1821529912&perks=1546637391
 
-//notes:
-Demolitionist | Vorpal Weapon
-Enlightened Action | Frenzy
+//notes:[Demolitionist, Enlightened Action] [Vorpal Weapon, Frenzy]
 dimwishlist:item=3250744600&perks=3523296417,4104185692
 dimwishlist:item=3250744600&perks=3523296417,1546637391
 dimwishlist:item=3250744600&perks=3828510309,4104185692
@@ -6026,9 +5499,7 @@ dimwishlist:item=3250744600&perks=777589557
 dimwishlist:item=3250744600&perks=4104185692
 dimwishlist:item=3250744600&perks=1546637391
 
-//notes:
-Demolitionist | Vorpal Weapon
-Enlightened Action | Frenzy
+//notes:[Demolitionist, Enlightened Action] [Vorpal Weapon, Frenzy]
 dimwishlist:item=267089201&perks=3523296417,4104185692
 dimwishlist:item=267089201&perks=3523296417,1546637391
 dimwishlist:item=267089201&perks=3828510309,4104185692
@@ -6064,9 +5535,7 @@ dimwishlist:item=267089201&perks=777589557
 dimwishlist:item=267089201&perks=4104185692
 dimwishlist:item=267089201&perks=1546637391
 
-//notes:
-Rapid Hit | Elemental Honing
-Dragonfly | Frenzy
+//notes:[Rapid Hit, Dragonfly] [Elemental Honing, Frenzy]
 dimwishlist:item=2485881870&perks=2578928835,4104185692
 dimwishlist:item=2485881870&perks=2578928835,1089671869
 dimwishlist:item=2485881870&perks=2848615171,4104185692
@@ -6115,8 +5584,7 @@ dimwishlist:item=2485881870&perks=247725512
 dimwishlist:item=2485881870&perks=4104185692
 dimwishlist:item=2485881870&perks=1089671869
 
-//notes:
-Headstone | Dragonfly
+//notes:[Headstone] [Dragonfly]
 dimwishlist:item=496728945&perks=124408337,2848615171
 dimwishlist:item=496728945&perks=124408337,3865257976
 dimwishlist:item=496728945&perks=2848615171,3865257976
@@ -6125,9 +5593,7 @@ dimwishlist:item=496728945&perks=124408337
 dimwishlist:item=496728945&perks=2848615171
 dimwishlist:item=496728945&perks=3865257976
 
-//notes:
-Dragonfly | Voltshot
-Rapid Hit | Vorpal Weapon
+//notes:[Dragonfly, Rapid Hit] [Voltshot, Vorpal Weapon]
 dimwishlist:item=2300143112&perks=2578928835,2173046394
 dimwishlist:item=2300143112&perks=2578928835,1546637391
 dimwishlist:item=2300143112&perks=2848615171,2173046394
@@ -6176,9 +5642,7 @@ dimwishlist:item=2300143112&perks=247725512
 dimwishlist:item=2300143112&perks=2173046394
 dimwishlist:item=2300143112&perks=1546637391
 
-//notes:
-Dragonfly | Voltshot
-Rapid Hit | Vorpal Weapon
+//notes:[Dragonfly, Rapid Hit] [Voltshot, Vorpal Weapon]
 dimwishlist:item=2378785953&perks=2578928835,2173046394
 dimwishlist:item=2378785953&perks=2578928835,1546637391
 dimwishlist:item=2378785953&perks=2848615171,2173046394
@@ -6227,9 +5691,7 @@ dimwishlist:item=2378785953&perks=247725512
 dimwishlist:item=2378785953&perks=2173046394
 dimwishlist:item=2378785953&perks=1546637391
 
-//notes:
-Repulsor Brace | Destabilizing Rounds
-Enlightened Action | Dragonfly
+//notes:[Repulsor Brace, Enlightened Action] [Destabilizing Rounds, Dragonfly]
 dimwishlist:item=1246793994&perks=3828510309,2848615171
 dimwishlist:item=1246793994&perks=3828510309,3865257976
 dimwishlist:item=1246793994&perks=3828510309,2048641572
@@ -6277,10 +5739,7 @@ dimwishlist:item=1246793994&perks=2848615171
 dimwishlist:item=1246793994&perks=3865257976
 dimwishlist:item=1246793994&perks=2048641572
 
-//notes:
-Firefly | Kinetic Tremors
-Shoot to Loot | Frenzy
-Explosive Payload | One for All
+//notes:[Firefly, Shoot to Loot, Explosive Payload] [Kinetic Tremors, Frenzy, One for All]
 dimwishlist:item=2499720827&perks=3038247973,3891536761
 dimwishlist:item=2499720827&perks=3038247973,4049631843
 dimwishlist:item=2499720827&perks=3038247973,4104185692
@@ -6328,10 +5787,7 @@ dimwishlist:item=2499720827&perks=3891536761
 dimwishlist:item=2499720827&perks=4049631843
 dimwishlist:item=2499720827&perks=4104185692
 
-//notes:
-Firefly | Kinetic Tremors
-Shoot to Loot | Frenzy
-Explosive Payload | One for All
+//notes:[Firefly, Shoot to Loot, Explosive Payload] [Kinetic Tremors, Frenzy, One for All]
 dimwishlist:item=2763843898&perks=3038247973,3891536761
 dimwishlist:item=2763843898&perks=3038247973,4049631843
 dimwishlist:item=2763843898&perks=3038247973,4104185692
@@ -6379,10 +5835,7 @@ dimwishlist:item=2763843898&perks=3891536761
 dimwishlist:item=2763843898&perks=4049631843
 dimwishlist:item=2763843898&perks=4104185692
 
-//notes:
-Firefly | Kinetic Tremors
-Shoot to Loot | Frenzy
-Explosive Payload | One for All
+//notes:[Firefly, Shoot to Loot, Explosive Payload] [Kinetic Tremors, Frenzy, One for All]
 dimwishlist:item=1128225405&perks=3038247973,3891536761
 dimwishlist:item=1128225405&perks=3038247973,4049631843
 dimwishlist:item=1128225405&perks=3038247973,4104185692
@@ -6430,10 +5883,7 @@ dimwishlist:item=1128225405&perks=3891536761
 dimwishlist:item=1128225405&perks=4049631843
 dimwishlist:item=1128225405&perks=4104185692
 
-//notes:
-Enlightened Action | Explosive Payload
-Demolitionist | Hatchling
-Slice | Frenzy
+//notes:[Enlightened Action, Demolitionist, Slice] [Explosive Payload, Hatchling, Frenzy]
 dimwishlist:item=4152016199&perks=3523296417,3038247973
 dimwishlist:item=4152016199&perks=3523296417,4104185692
 dimwishlist:item=4152016199&perks=3523296417,831391274
@@ -6496,10 +5946,7 @@ dimwishlist:item=4152016199&perks=3038247973
 dimwishlist:item=4152016199&perks=4104185692
 dimwishlist:item=4152016199&perks=831391274
 
-//notes:
-Enlightened Action | Explosive Payload
-Demolitionist | Hatchling
-Slice | Frenzy
+//notes:[Enlightened Action, Demolitionist, Slice] [Explosive Payload, Hatchling, Frenzy]
 dimwishlist:item=153979397&perks=3523296417,3038247973
 dimwishlist:item=153979397&perks=3523296417,4104185692
 dimwishlist:item=153979397&perks=3523296417,831391274
@@ -6562,10 +6009,7 @@ dimwishlist:item=153979397&perks=3038247973
 dimwishlist:item=153979397&perks=4104185692
 dimwishlist:item=153979397&perks=831391274
 
-//notes:
-Enlightened Action | Explosive Payload
-Demolitionist | Hatchling
-Slice | Frenzy
+//notes:[Enlightened Action, Demolitionist, Slice] [Explosive Payload, Hatchling, Frenzy]
 dimwishlist:item=1048266744&perks=3523296417,3038247973
 dimwishlist:item=1048266744&perks=3523296417,4104185692
 dimwishlist:item=1048266744&perks=3523296417,831391274
@@ -6628,9 +6072,7 @@ dimwishlist:item=1048266744&perks=3038247973
 dimwishlist:item=1048266744&perks=4104185692
 dimwishlist:item=1048266744&perks=831391274
 
-//notes:
-Shoot to Loot | Explosive Payload
- | Headstone
+//notes:[Shoot to Loot] [Explosive Payload, Headstone]
 dimwishlist:item=1622998472&perks=3700496672,3038247973
 dimwishlist:item=1622998472&perks=3700496672,124408337
 dimwishlist:item=1622998472&perks=3038247973,124408337
@@ -6639,9 +6081,7 @@ dimwishlist:item=1622998472&perks=3700496672
 dimwishlist:item=1622998472&perks=3038247973
 dimwishlist:item=1622998472&perks=124408337
 
-//notes:
-Explosive Payload | Incandescent
- | One for All
+//notes:[Explosive Payload] [Incandescent, One for All]
 dimwishlist:item=431721920&perks=3038247973,4049631843
 dimwishlist:item=431721920&perks=3038247973,4293542123
 dimwishlist:item=431721920&perks=4049631843,4293542123
@@ -6650,9 +6090,7 @@ dimwishlist:item=431721920&perks=3038247973
 dimwishlist:item=431721920&perks=4049631843
 dimwishlist:item=431721920&perks=4293542123
 
-//notes:
-Explosive Payload | Incandescent
- | One for All
+//notes:[Explosive Payload] [Incandescent, One for All]
 dimwishlist:item=291092617&perks=3038247973,4049631843
 dimwishlist:item=291092617&perks=3038247973,4293542123
 dimwishlist:item=291092617&perks=4049631843,4293542123
@@ -6661,9 +6099,7 @@ dimwishlist:item=291092617&perks=3038247973
 dimwishlist:item=291092617&perks=4049631843
 dimwishlist:item=291092617&perks=4293542123
 
-//notes:
-Voltshot | Frenzy
- | Redirection
+//notes:[Voltshot] [Frenzy, Redirection]
 dimwishlist:item=3281285075&perks=2173046394,3201496230
 dimwishlist:item=3281285075&perks=2173046394,4104185692
 dimwishlist:item=3281285075&perks=3201496230,4104185692
@@ -6672,9 +6108,7 @@ dimwishlist:item=3281285075&perks=2173046394
 dimwishlist:item=3281285075&perks=3201496230
 dimwishlist:item=3281285075&perks=4104185692
 
-//notes:
-Repulsor Brace | Destabilizing Rounds
-Dragonfly | 
+//notes:[Repulsor Brace, Dragonfly] [Destabilizing Rounds]
 dimwishlist:item=120706239&perks=2848615171,2048641572
 dimwishlist:item=120706239&perks=3865257976,2048641572
 dimwishlist:item=120706239&perks=776531651,2048641572
@@ -6691,9 +6125,7 @@ dimwishlist:item=120706239&perks=2048641572
 dimwishlist:item=120706239&perks=776531651
 dimwishlist:item=120706239&perks=2048641572
 
-//notes:
-Repulsor Brace | Destabilizing Rounds
-Dragonfly | 
+//notes:[Repulsor Brace, Dragonfly] [Destabilizing Rounds]
 dimwishlist:item=3926103986&perks=2848615171,2048641572
 dimwishlist:item=3926103986&perks=3865257976,2048641572
 dimwishlist:item=3926103986&perks=776531651,2048641572
@@ -6710,10 +6142,7 @@ dimwishlist:item=3926103986&perks=2048641572
 dimwishlist:item=3926103986&perks=776531651
 dimwishlist:item=3926103986&perks=2048641572
 
-//notes:
-Kinetic Tremors | Firefly
-Shoot to Loot | One for All
- | Frenzy
+//notes:[Kinetic Tremors, Shoot to Loot] [Firefly, One for All, Frenzy]
 dimwishlist:item=2372514508&perks=3700496672,3824105627
 dimwishlist:item=2372514508&perks=3700496672,4049631843
 dimwishlist:item=2372514508&perks=3700496672,4104185692
@@ -6747,10 +6176,7 @@ dimwishlist:item=2372514508&perks=4049631843
 dimwishlist:item=2372514508&perks=4104185692
 dimwishlist:item=2372514508&perks=1561789734
 
-//notes:
-Kinetic Tremors | Firefly
-Shoot to Loot | One for All
- | Frenzy
+//notes:[Kinetic Tremors, Shoot to Loot] [Firefly, One for All, Frenzy]
 dimwishlist:item=2533990645&perks=3700496672,3824105627
 dimwishlist:item=2533990645&perks=3700496672,4049631843
 dimwishlist:item=2533990645&perks=3700496672,4104185692
@@ -6784,10 +6210,7 @@ dimwishlist:item=2533990645&perks=4049631843
 dimwishlist:item=2533990645&perks=4104185692
 dimwishlist:item=2533990645&perks=1561789734
 
-//notes:
-Kinetic Tremors | Firefly
-Shoot to Loot | One for All
- | Frenzy
+//notes:[Kinetic Tremors, Shoot to Loot] [Firefly, One for All, Frenzy]
 dimwishlist:item=3843477312&perks=3700496672,3824105627
 dimwishlist:item=3843477312&perks=3700496672,4049631843
 dimwishlist:item=3843477312&perks=3700496672,4104185692
@@ -6821,10 +6244,7 @@ dimwishlist:item=3843477312&perks=4049631843
 dimwishlist:item=3843477312&perks=4104185692
 dimwishlist:item=3843477312&perks=1561789734
 
-//notes:
-Firefly | Hatchling
-Rapid Hit | Elemental Honing
-Slice | 
+//notes:[Firefly, Rapid Hit, Slice] [Hatchling, Elemental Honing]
 dimwishlist:item=3681280908&perks=2578928835,831391274
 dimwishlist:item=3681280908&perks=2578928835,1089671869
 dimwishlist:item=3681280908&perks=3708253562,831391274
@@ -6888,10 +6308,7 @@ dimwishlist:item=3681280908&perks=1561789734
 dimwishlist:item=3681280908&perks=831391274
 dimwishlist:item=3681280908&perks=1089671869
 
-//notes:
-Firefly | Hatchling
-Rapid Hit | Elemental Honing
-Slice | 
+//notes:[Firefly, Rapid Hit, Slice] [Hatchling, Elemental Honing]
 dimwishlist:item=3733988413&perks=2578928835,831391274
 dimwishlist:item=3733988413&perks=2578928835,1089671869
 dimwishlist:item=3733988413&perks=3708253562,831391274
@@ -6955,10 +6372,7 @@ dimwishlist:item=3733988413&perks=1561789734
 dimwishlist:item=3733988413&perks=831391274
 dimwishlist:item=3733988413&perks=1089671869
 
-//notes:
-Firefly | Hatchling
-Rapid Hit | Elemental Honing
-Slice | 
+//notes:[Firefly, Rapid Hit, Slice] [Hatchling, Elemental Honing]
 dimwishlist:item=435821041&perks=2578928835,831391274
 dimwishlist:item=435821041&perks=2578928835,1089671869
 dimwishlist:item=435821041&perks=3708253562,831391274
@@ -7022,10 +6436,7 @@ dimwishlist:item=435821041&perks=1561789734
 dimwishlist:item=435821041&perks=831391274
 dimwishlist:item=435821041&perks=1089671869
 
-//notes:
-Firefly | Hatchling
-Rapid Hit | Elemental Honing
-Slice | 
+//notes:[Firefly, Rapid Hit, Slice] [Hatchling, Elemental Honing]
 dimwishlist:item=1187594590&perks=2578928835,831391274
 dimwishlist:item=1187594590&perks=2578928835,1089671869
 dimwishlist:item=1187594590&perks=3708253562,831391274
@@ -7089,10 +6500,7 @@ dimwishlist:item=1187594590&perks=1561789734
 dimwishlist:item=1187594590&perks=831391274
 dimwishlist:item=1187594590&perks=1089671869
 
-//notes:
-Firefly | Hatchling
-Rapid Hit | Elemental Honing
-Slice | 
+//notes:[Firefly, Rapid Hit, Slice] [Hatchling, Elemental Honing]
 dimwishlist:item=1066598837&perks=2578928835,831391274
 dimwishlist:item=1066598837&perks=2578928835,1089671869
 dimwishlist:item=1066598837&perks=3708253562,831391274
@@ -7156,10 +6564,7 @@ dimwishlist:item=1066598837&perks=1561789734
 dimwishlist:item=1066598837&perks=831391274
 dimwishlist:item=1066598837&perks=1089671869
 
-//notes:
-Firefly | Hatchling
-Rapid Hit | Elemental Honing
-Slice | 
+//notes:[Firefly, Rapid Hit, Slice] [Hatchling, Elemental Honing]
 dimwishlist:item=1827058652&perks=2578928835,831391274
 dimwishlist:item=1827058652&perks=2578928835,1089671869
 dimwishlist:item=1827058652&perks=3708253562,831391274
@@ -7223,9 +6628,7 @@ dimwishlist:item=1827058652&perks=1561789734
 dimwishlist:item=1827058652&perks=831391274
 dimwishlist:item=1827058652&perks=1089671869
 
-//notes:
-Rimestealer | Headstone
-Enlightened Action | 
+//notes:[Rimestealer, Enlightened Action] [Headstone]
 dimwishlist:item=2812100428&perks=3828510309,124408337
 dimwishlist:item=2812100428&perks=3960499185,124408337
 dimwishlist:item=2812100428&perks=777589557,124408337
@@ -7251,9 +6654,7 @@ dimwishlist:item=2812100428&perks=124408337
 dimwishlist:item=2812100428&perks=1955165503
 dimwishlist:item=2812100428&perks=124408337
 
-//notes:
-Rimestealer | Headstone
-Enlightened Action | 
+//notes:[Rimestealer, Enlightened Action] [Headstone]
 dimwishlist:item=1123433952&perks=3828510309,124408337
 dimwishlist:item=1123433952&perks=3960499185,124408337
 dimwishlist:item=1123433952&perks=777589557,124408337
@@ -7279,9 +6680,7 @@ dimwishlist:item=1123433952&perks=124408337
 dimwishlist:item=1123433952&perks=1955165503
 dimwishlist:item=1123433952&perks=124408337
 
-//notes:
-Rimestealer | Headstone
-Enlightened Action | 
+//notes:[Rimestealer, Enlightened Action] [Headstone]
 dimwishlist:item=1891321753&perks=3828510309,124408337
 dimwishlist:item=1891321753&perks=3960499185,124408337
 dimwishlist:item=1891321753&perks=777589557,124408337
@@ -7307,10 +6706,7 @@ dimwishlist:item=1891321753&perks=124408337
 dimwishlist:item=1891321753&perks=1955165503
 dimwishlist:item=1891321753&perks=124408337
 
-//notes:
-Firefly | Incandescent
-Heal Clip | Chaos Reshaped
-Demolitionist | Attrition Orbs
+//notes:[Firefly, Heal Clip, Demolitionist] [Incandescent, Chaos Reshaped, Attrition Orbs]
 dimwishlist:item=859869931&perks=3017780555,3640170453
 dimwishlist:item=859869931&perks=3017780555,4293542123
 dimwishlist:item=859869931&perks=3017780555,243981275
@@ -7358,10 +6754,7 @@ dimwishlist:item=859869931&perks=3640170453
 dimwishlist:item=859869931&perks=4293542123
 dimwishlist:item=859869931&perks=243981275
 
-//notes:
-Firefly | Incandescent
-Heal Clip | Chaos Reshaped
-Demolitionist | Attrition Orbs
+//notes:[Firefly, Heal Clip, Demolitionist] [Incandescent, Chaos Reshaped, Attrition Orbs]
 dimwishlist:item=892183998&perks=3017780555,3640170453
 dimwishlist:item=892183998&perks=3017780555,4293542123
 dimwishlist:item=892183998&perks=3017780555,243981275
@@ -7409,15 +6802,12 @@ dimwishlist:item=892183998&perks=3640170453
 dimwishlist:item=892183998&perks=4293542123
 dimwishlist:item=892183998&perks=243981275
 
-//notes:
-Eddy Current | Jolting Feedback
+//notes:[Eddy Current] [Jolting Feedback]
 dimwishlist:item=3830941962&perks=684456054,3966416502
 dimwishlist:item=3830941962&perks=684456054
 dimwishlist:item=3830941962&perks=3966416502
 
-//notes:
-Repulsor Brace | Destabilizing Rounds
-Demolitionist | 
+//notes:[Repulsor Brace, Demolitionist] [Destabilizing Rounds]
 dimwishlist:item=3433930495&perks=3523296417,2048641572
 dimwishlist:item=3433930495&perks=776531651,2048641572
 dimwishlist:item=3433930495&perks=3523296417,776531651
@@ -7427,9 +6817,7 @@ dimwishlist:item=3433930495&perks=2048641572
 dimwishlist:item=3433930495&perks=776531651
 dimwishlist:item=3433930495&perks=2048641572
 
-//notes:
-Repulsor Brace | Destabilizing Rounds
-Demolitionist | 
+//notes:[Repulsor Brace, Demolitionist] [Destabilizing Rounds]
 dimwishlist:item=1621558458&perks=3523296417,2048641572
 dimwishlist:item=1621558458&perks=776531651,2048641572
 dimwishlist:item=1621558458&perks=3523296417,776531651
@@ -7439,10 +6827,7 @@ dimwishlist:item=1621558458&perks=2048641572
 dimwishlist:item=1621558458&perks=776531651
 dimwishlist:item=1621558458&perks=2048641572
 
-//notes:
-Kinetic Tremors | Firefly
-Shoot to Loot | Explosive Payload
-Enlightened Action | One for All
+//notes:[Kinetic Tremors, Shoot to Loot, Enlightened Action] [Firefly, Explosive Payload, One for All]
 dimwishlist:item=3832743906&perks=3700496672,3038247973
 dimwishlist:item=3832743906&perks=3700496672,3824105627
 dimwishlist:item=3832743906&perks=3700496672,4049631843
@@ -7521,10 +6906,7 @@ dimwishlist:item=3832743906&perks=3824105627
 dimwishlist:item=3832743906&perks=4049631843
 dimwishlist:item=3832743906&perks=1561789734
 
-//notes:
-Kinetic Tremors | Firefly
-Shoot to Loot | Explosive Payload
-Enlightened Action | One for All
+//notes:[Kinetic Tremors, Shoot to Loot, Enlightened Action] [Firefly, Explosive Payload, One for All]
 dimwishlist:item=4281371574&perks=3700496672,3038247973
 dimwishlist:item=4281371574&perks=3700496672,3824105627
 dimwishlist:item=4281371574&perks=3700496672,4049631843
@@ -7603,10 +6985,7 @@ dimwishlist:item=4281371574&perks=3824105627
 dimwishlist:item=4281371574&perks=4049631843
 dimwishlist:item=4281371574&perks=1561789734
 
-//notes:
-Kinetic Tremors | Firefly
-Shoot to Loot | Explosive Payload
-Enlightened Action | One for All
+//notes:[Kinetic Tremors, Shoot to Loot, Enlightened Action] [Firefly, Explosive Payload, One for All]
 dimwishlist:item=205225492&perks=3700496672,3038247973
 dimwishlist:item=205225492&perks=3700496672,3824105627
 dimwishlist:item=205225492&perks=3700496672,4049631843
@@ -7685,10 +7064,7 @@ dimwishlist:item=205225492&perks=3824105627
 dimwishlist:item=205225492&perks=4049631843
 dimwishlist:item=205225492&perks=1561789734
 
-//notes:
-Kinetic Tremors | Firefly
-Shoot to Loot | Explosive Payload
-Enlightened Action | One for All
+//notes:[Kinetic Tremors, Shoot to Loot, Enlightened Action] [Firefly, Explosive Payload, One for All]
 dimwishlist:item=772231794&perks=3700496672,3038247973
 dimwishlist:item=772231794&perks=3700496672,3824105627
 dimwishlist:item=772231794&perks=3700496672,4049631843
@@ -7767,10 +7143,7 @@ dimwishlist:item=772231794&perks=3824105627
 dimwishlist:item=772231794&perks=4049631843
 dimwishlist:item=772231794&perks=1561789734
 
-//notes:
-Kinetic Tremors | Firefly
-Shoot to Loot | Explosive Payload
-Enlightened Action | One for All
+//notes:[Kinetic Tremors, Shoot to Loot, Enlightened Action] [Firefly, Explosive Payload, One for All]
 dimwishlist:item=1453235079&perks=3700496672,3038247973
 dimwishlist:item=1453235079&perks=3700496672,3824105627
 dimwishlist:item=1453235079&perks=3700496672,4049631843
@@ -7849,10 +7222,7 @@ dimwishlist:item=1453235079&perks=3824105627
 dimwishlist:item=1453235079&perks=4049631843
 dimwishlist:item=1453235079&perks=1561789734
 
-//notes:
-Kinetic Tremors | Firefly
-Shoot to Loot | Explosive Payload
-Enlightened Action | One for All
+//notes:[Kinetic Tremors, Shoot to Loot, Enlightened Action] [Firefly, Explosive Payload, One for All]
 dimwishlist:item=2883684343&perks=3700496672,3038247973
 dimwishlist:item=2883684343&perks=3700496672,3824105627
 dimwishlist:item=2883684343&perks=3700496672,4049631843
@@ -7931,10 +7301,7 @@ dimwishlist:item=2883684343&perks=3824105627
 dimwishlist:item=2883684343&perks=4049631843
 dimwishlist:item=2883684343&perks=1561789734
 
-//notes:
-Kinetic Tremors | Firefly
-Shoot to Loot | Explosive Payload
-Enlightened Action | One for All
+//notes:[Kinetic Tremors, Shoot to Loot, Enlightened Action] [Firefly, Explosive Payload, One for All]
 dimwishlist:item=4074251943&perks=3700496672,3038247973
 dimwishlist:item=4074251943&perks=3700496672,3824105627
 dimwishlist:item=4074251943&perks=3700496672,4049631843
@@ -8013,10 +7380,7 @@ dimwishlist:item=4074251943&perks=3824105627
 dimwishlist:item=4074251943&perks=4049631843
 dimwishlist:item=4074251943&perks=1561789734
 
-//notes:
-Kinetic Tremors | Firefly
-Shoot to Loot | Explosive Payload
-Enlightened Action | One for All
+//notes:[Kinetic Tremors, Shoot to Loot, Enlightened Action] [Firefly, Explosive Payload, One for All]
 dimwishlist:item=681067419&perks=3700496672,3038247973
 dimwishlist:item=681067419&perks=3700496672,3824105627
 dimwishlist:item=681067419&perks=3700496672,4049631843
@@ -8095,10 +7459,7 @@ dimwishlist:item=681067419&perks=3824105627
 dimwishlist:item=681067419&perks=4049631843
 dimwishlist:item=681067419&perks=1561789734
 
-//notes:
-Rapid Hit | Hatchling
-Shoot to Loot | 
-Rewind Rounds | 
+//notes:[Rapid Hit, Shoot to Loot, Rewind Rounds] [Hatchling]
 dimwishlist:item=1432682459&perks=2578928832,831391274
 dimwishlist:item=1432682459&perks=2578928835,831391274
 dimwishlist:item=1432682459&perks=3418782618,831391274
@@ -8163,10 +7524,7 @@ dimwishlist:item=1432682459&perks=831391274
 dimwishlist:item=1432682459&perks=247725512
 dimwishlist:item=1432682459&perks=831391274
 
-//notes:
-Rapid Hit | Hatchling
-Shoot to Loot | 
-Rewind Rounds | 
+//notes:[Rapid Hit, Shoot to Loot, Rewind Rounds] [Hatchling]
 dimwishlist:item=128782990&perks=2578928832,831391274
 dimwishlist:item=128782990&perks=2578928835,831391274
 dimwishlist:item=128782990&perks=3418782618,831391274
@@ -8231,8 +7589,7 @@ dimwishlist:item=128782990&perks=831391274
 dimwishlist:item=128782990&perks=247725512
 dimwishlist:item=128782990&perks=831391274
 
-//notes:
-Rapid Hit | Headstone
+//notes:[Rapid Hit] [Headstone]
 dimwishlist:item=1851521408&perks=2578928835,124408337
 dimwishlist:item=1851521408&perks=3708253562,124408337
 dimwishlist:item=1851521408&perks=247725512,124408337
@@ -8249,9 +7606,7 @@ dimwishlist:item=1851521408&perks=124408337
 dimwishlist:item=1851521408&perks=247725512
 dimwishlist:item=1851521408&perks=124408337
 
-//notes:
-Rapid Hit | Incandescent
-Reconstruction | 
+//notes:[Rapid Hit, Reconstruction] [Incandescent]
 dimwishlist:item=1392919471&perks=2578928835,4293542123
 dimwishlist:item=1392919471&perks=3708253562,4293542123
 dimwishlist:item=1392919471&perks=247725512,4293542123
@@ -8277,8 +7632,7 @@ dimwishlist:item=1392919471&perks=4293542123
 dimwishlist:item=1392919471&perks=1523832109
 dimwishlist:item=1392919471&perks=4293542123
 
-//notes:
-Firefly | Voltshot
+//notes:[Firefly] [Voltshot]
 dimwishlist:item=2226158470&perks=3824105627,2173046394
 dimwishlist:item=2226158470&perks=1561789734,2173046394
 dimwishlist:item=2226158470&perks=3824105627,1561789734
@@ -8288,10 +7642,7 @@ dimwishlist:item=2226158470&perks=2173046394
 dimwishlist:item=2226158470&perks=1561789734
 dimwishlist:item=2226158470&perks=2173046394
 
-//notes:
-Repulsor Brace | Destabilizing Rounds
-Rapid Hit | Dragonfly
- | Explosive Payload
+//notes:[Repulsor Brace, Rapid Hit] [Destabilizing Rounds, Dragonfly, Explosive Payload]
 dimwishlist:item=3242168339&perks=2578928835,2848615171
 dimwishlist:item=3242168339&perks=2578928835,3038247973
 dimwishlist:item=3242168339&perks=2578928835,3865257976
@@ -8353,10 +7704,7 @@ dimwishlist:item=3242168339&perks=3038247973
 dimwishlist:item=3242168339&perks=3865257976
 dimwishlist:item=3242168339&perks=2048641572
 
-//notes:
-Repulsor Brace | Destabilizing Rounds
-Rapid Hit | Dragonfly
- | Explosive Payload
+//notes:[Repulsor Brace, Rapid Hit] [Destabilizing Rounds, Dragonfly, Explosive Payload]
 dimwishlist:item=355922321&perks=2578928835,2848615171
 dimwishlist:item=355922321&perks=2578928835,3038247973
 dimwishlist:item=355922321&perks=2578928835,3865257976
@@ -8418,9 +7766,7 @@ dimwishlist:item=355922321&perks=3038247973
 dimwishlist:item=355922321&perks=3865257976
 dimwishlist:item=355922321&perks=2048641572
 
-//notes:
-Compulsive Reloader | Kinetic Tremors
-Fourth Time's the Charm | 
+//notes:[Compulsive Reloader, Fourth Time's the Charm] [Kinetic Tremors]
 dimwishlist:item=213264394&perks=671806388,3891536761
 dimwishlist:item=213264394&perks=1354429876,3891536761
 dimwishlist:item=213264394&perks=671806388,1354429876
@@ -8430,9 +7776,7 @@ dimwishlist:item=213264394&perks=3891536761
 dimwishlist:item=213264394&perks=1354429876
 dimwishlist:item=213264394&perks=3891536761
 
-//notes:
-Compulsive Reloader | Kinetic Tremors
-Fourth Time's the Charm | 
+//notes:[Compulsive Reloader, Fourth Time's the Charm] [Kinetic Tremors]
 dimwishlist:item=805677041&perks=671806388,3891536761
 dimwishlist:item=805677041&perks=1354429876,3891536761
 dimwishlist:item=805677041&perks=671806388,1354429876
@@ -8442,9 +7786,7 @@ dimwishlist:item=805677041&perks=3891536761
 dimwishlist:item=805677041&perks=1354429876
 dimwishlist:item=805677041&perks=3891536761
 
-//notes:
-Compulsive Reloader | Kinetic Tremors
-Fourth Time's the Charm | 
+//notes:[Compulsive Reloader, Fourth Time's the Charm] [Kinetic Tremors]
 dimwishlist:item=927835311&perks=671806388,3891536761
 dimwishlist:item=927835311&perks=1354429876,3891536761
 dimwishlist:item=927835311&perks=671806388,1354429876
@@ -8454,10 +7796,7 @@ dimwishlist:item=927835311&perks=3891536761
 dimwishlist:item=927835311&perks=1354429876
 dimwishlist:item=927835311&perks=3891536761
 
-//notes:
-Demolitionist | Hatchling
-Pugilist | Swashbuckler
-Slice | 
+//notes:[Demolitionist, Pugilist, Slice] [Hatchling, Swashbuckler]
 dimwishlist:item=2328923181&perks=3523296417,4082225868
 dimwishlist:item=2328923181&perks=3523296417,831391274
 dimwishlist:item=2328923181&perks=691659142,4082225868
@@ -8482,10 +7821,7 @@ dimwishlist:item=2328923181&perks=923806249
 dimwishlist:item=2328923181&perks=4082225868
 dimwishlist:item=2328923181&perks=831391274
 
-//notes:
-Demolitionist | Hatchling
-Pugilist | Swashbuckler
-Slice | 
+//notes:[Demolitionist, Pugilist, Slice] [Hatchling, Swashbuckler]
 dimwishlist:item=1289997971&perks=3523296417,4082225868
 dimwishlist:item=1289997971&perks=3523296417,831391274
 dimwishlist:item=1289997971&perks=691659142,4082225868
@@ -8510,10 +7846,7 @@ dimwishlist:item=1289997971&perks=923806249
 dimwishlist:item=1289997971&perks=4082225868
 dimwishlist:item=1289997971&perks=831391274
 
-//notes:
-Headstone | Desperate Measures
-Attrition Orbs | Rimestealer
-Enlightened Action | Kill Clip
+//notes:[Headstone, Attrition Orbs, Enlightened Action] [Desperate Measures, Rimestealer, Kill Clip]
 dimwishlist:item=2575844666&perks=3828510309,1015611457
 dimwishlist:item=2575844666&perks=3828510309,1955165503
 dimwishlist:item=2575844666&perks=3828510309,2109543898
@@ -8576,10 +7909,7 @@ dimwishlist:item=2575844666&perks=1015611457
 dimwishlist:item=2575844666&perks=1955165503
 dimwishlist:item=2575844666&perks=2109543898
 
-//notes:
-Headstone | Desperate Measures
-Attrition Orbs | Rimestealer
-Enlightened Action | Kill Clip
+//notes:[Headstone, Attrition Orbs, Enlightened Action] [Desperate Measures, Rimestealer, Kill Clip]
 dimwishlist:item=3138208275&perks=3828510309,1015611457
 dimwishlist:item=3138208275&perks=3828510309,1955165503
 dimwishlist:item=3138208275&perks=3828510309,2109543898
@@ -8642,10 +7972,7 @@ dimwishlist:item=3138208275&perks=1015611457
 dimwishlist:item=3138208275&perks=1955165503
 dimwishlist:item=3138208275&perks=2109543898
 
-//notes:
-Headstone | Desperate Measures
-Attrition Orbs | Rimestealer
-Enlightened Action | Kill Clip
+//notes:[Headstone, Attrition Orbs, Enlightened Action] [Desperate Measures, Rimestealer, Kill Clip]
 dimwishlist:item=1460079227&perks=3828510309,1015611457
 dimwishlist:item=1460079227&perks=3828510309,1955165503
 dimwishlist:item=1460079227&perks=3828510309,2109543898
@@ -8708,10 +8035,7 @@ dimwishlist:item=1460079227&perks=1015611457
 dimwishlist:item=1460079227&perks=1955165503
 dimwishlist:item=1460079227&perks=2109543898
 
-//notes:
-Headstone | Desperate Measures
-Attrition Orbs | Rimestealer
-Enlightened Action | Kill Clip
+//notes:[Headstone, Attrition Orbs, Enlightened Action] [Desperate Measures, Rimestealer, Kill Clip]
 dimwishlist:item=3421639790&perks=3828510309,1015611457
 dimwishlist:item=3421639790&perks=3828510309,1955165503
 dimwishlist:item=3421639790&perks=3828510309,2109543898
@@ -8774,10 +8098,7 @@ dimwishlist:item=3421639790&perks=1015611457
 dimwishlist:item=3421639790&perks=1955165503
 dimwishlist:item=3421639790&perks=2109543898
 
-//notes:
-Headstone | Desperate Measures
-Attrition Orbs | Rimestealer
-Enlightened Action | Kill Clip
+//notes:[Headstone, Attrition Orbs, Enlightened Action] [Desperate Measures, Rimestealer, Kill Clip]
 dimwishlist:item=1905934655&perks=3828510309,1015611457
 dimwishlist:item=1905934655&perks=3828510309,1955165503
 dimwishlist:item=1905934655&perks=3828510309,2109543898
@@ -8840,10 +8161,7 @@ dimwishlist:item=1905934655&perks=1015611457
 dimwishlist:item=1905934655&perks=1955165503
 dimwishlist:item=1905934655&perks=2109543898
 
-//notes:
-Heal Clip | Incandescent
-Demolitionist | Frenzy
- | Surrounded
+//notes:[Heal Clip, Demolitionist] [Incandescent, Frenzy, Surrounded]
 dimwishlist:item=3998080529&perks=3017780555,3708227201
 dimwishlist:item=3998080529&perks=3017780555,4104185692
 dimwishlist:item=3998080529&perks=3017780555,4293542123
@@ -8867,10 +8185,7 @@ dimwishlist:item=3998080529&perks=3708227201
 dimwishlist:item=3998080529&perks=4104185692
 dimwishlist:item=3998080529&perks=4293542123
 
-//notes:
-Eddy Current | Voltshot
-Pugilist | Surrounded
-Grave Robber | 
+//notes:[Eddy Current, Pugilist, Grave Robber] [Voltshot, Surrounded]
 dimwishlist:item=2903168058&perks=684456054,2173046394
 dimwishlist:item=2903168058&perks=684456054,3708227201
 dimwishlist:item=2903168058&perks=691659142,2173046394
@@ -8895,10 +8210,7 @@ dimwishlist:item=2903168058&perks=1631667848
 dimwishlist:item=2903168058&perks=2173046394
 dimwishlist:item=2903168058&perks=3708227201
 
-//notes:
-Eddy Current | Voltshot
-Pugilist | Surrounded
-Grave Robber | 
+//notes:[Eddy Current, Pugilist, Grave Robber] [Voltshot, Surrounded]
 dimwishlist:item=2992463569&perks=684456054,2173046394
 dimwishlist:item=2992463569&perks=684456054,3708227201
 dimwishlist:item=2992463569&perks=691659142,2173046394
@@ -8923,10 +8235,7 @@ dimwishlist:item=2992463569&perks=1631667848
 dimwishlist:item=2992463569&perks=2173046394
 dimwishlist:item=2992463569&perks=3708227201
 
-//notes:
-Eddy Current | Voltshot
-Pugilist | Surrounded
-Grave Robber | 
+//notes:[Eddy Current, Pugilist, Grave Robber] [Voltshot, Surrounded]
 dimwishlist:item=2501377328&perks=684456054,2173046394
 dimwishlist:item=2501377328&perks=684456054,3708227201
 dimwishlist:item=2501377328&perks=691659142,2173046394
@@ -8951,10 +8260,7 @@ dimwishlist:item=2501377328&perks=1631667848
 dimwishlist:item=2501377328&perks=2173046394
 dimwishlist:item=2501377328&perks=3708227201
 
-//notes:
-Eddy Current | Voltshot
-Pugilist | Surrounded
-Grave Robber | 
+//notes:[Eddy Current, Pugilist, Grave Robber] [Voltshot, Surrounded]
 dimwishlist:item=3734001727&perks=684456054,2173046394
 dimwishlist:item=3734001727&perks=684456054,3708227201
 dimwishlist:item=3734001727&perks=691659142,2173046394
@@ -8979,10 +8285,7 @@ dimwishlist:item=3734001727&perks=1631667848
 dimwishlist:item=3734001727&perks=2173046394
 dimwishlist:item=3734001727&perks=3708227201
 
-//notes:
-Repulsor Brace | Destabilizing Rounds
-Attrition Orbs | Surrounded
-Demolitionist | 
+//notes:[Repulsor Brace, Attrition Orbs, Demolitionist] [Destabilizing Rounds, Surrounded]
 dimwishlist:item=414045521&perks=3523296417,3708227201
 dimwishlist:item=414045521&perks=3523296417,2048641572
 dimwishlist:item=414045521&perks=243981275,3708227201
@@ -9007,9 +8310,7 @@ dimwishlist:item=414045521&perks=776531651
 dimwishlist:item=414045521&perks=3708227201
 dimwishlist:item=414045521&perks=2048641572
 
-//notes:
-Attrition Orbs | Kinetic Tremors
- | Frenzy
+//notes:[Attrition Orbs] [Kinetic Tremors, Frenzy]
 dimwishlist:item=3211624072&perks=243981275,3891536761
 dimwishlist:item=3211624072&perks=243981275,4104185692
 dimwishlist:item=3211624072&perks=3891536761,4104185692
@@ -9018,9 +8319,7 @@ dimwishlist:item=3211624072&perks=243981275
 dimwishlist:item=3211624072&perks=3891536761
 dimwishlist:item=3211624072&perks=4104185692
 
-//notes:
-Attrition Orbs | Kinetic Tremors
- | Frenzy
+//notes:[Attrition Orbs] [Kinetic Tremors, Frenzy]
 dimwishlist:item=3717177717&perks=243981275,3891536761
 dimwishlist:item=3717177717&perks=243981275,4104185692
 dimwishlist:item=3717177717&perks=3891536761,4104185692
@@ -9029,9 +8328,7 @@ dimwishlist:item=3717177717&perks=243981275
 dimwishlist:item=3717177717&perks=3891536761
 dimwishlist:item=3717177717&perks=4104185692
 
-//notes:
-Attrition Orbs | Kinetic Tremors
- | Frenzy
+//notes:[Attrition Orbs] [Kinetic Tremors, Frenzy]
 dimwishlist:item=4265183314&perks=243981275,3891536761
 dimwishlist:item=4265183314&perks=243981275,4104185692
 dimwishlist:item=4265183314&perks=3891536761,4104185692
@@ -9040,10 +8337,7 @@ dimwishlist:item=4265183314&perks=243981275
 dimwishlist:item=4265183314&perks=3891536761
 dimwishlist:item=4265183314&perks=4104185692
 
-//notes:
-Demolitionist | Firefly
-Slice | Chaos Reshaped
-Enlightened Action | Hatchling
+//notes:[Demolitionist, Slice, Enlightened Action] [Firefly, Chaos Reshaped, Hatchling]
 dimwishlist:item=1258168956&perks=3523296417,3640170453
 dimwishlist:item=1258168956&perks=3523296417,3824105627
 dimwishlist:item=1258168956&perks=3523296417,831391274
@@ -9122,10 +8416,7 @@ dimwishlist:item=1258168956&perks=3824105627
 dimwishlist:item=1258168956&perks=831391274
 dimwishlist:item=1258168956&perks=1561789734
 
-//notes:
-Demolitionist | Firefly
-Slice | Chaos Reshaped
-Enlightened Action | Hatchling
+//notes:[Demolitionist, Slice, Enlightened Action] [Firefly, Chaos Reshaped, Hatchling]
 dimwishlist:item=3951511045&perks=3523296417,3640170453
 dimwishlist:item=3951511045&perks=3523296417,3824105627
 dimwishlist:item=3951511045&perks=3523296417,831391274
@@ -9204,10 +8495,7 @@ dimwishlist:item=3951511045&perks=3824105627
 dimwishlist:item=3951511045&perks=831391274
 dimwishlist:item=3951511045&perks=1561789734
 
-//notes:
-Enlightened Action | Headstone
-Rewind Rounds | Surrounded
- | Desperate Measures
+//notes:[Enlightened Action, Rewind Rounds] [Headstone, Surrounded, Desperate Measures]
 dimwishlist:item=3959549446&perks=2578928832,3708227201
 dimwishlist:item=3959549446&perks=2578928832,124408337
 dimwishlist:item=3959549446&perks=2578928832,2109543898
@@ -9287,10 +8575,7 @@ dimwishlist:item=3959549446&perks=3708227201
 dimwishlist:item=3959549446&perks=124408337
 dimwishlist:item=3959549446&perks=2109543898
 
-//notes:
-Heal Clip | Incandescent
-Attrition Orbs | 
-Demolitionist | 
+//notes:[Heal Clip, Attrition Orbs, Demolitionist] [Incandescent]
 dimwishlist:item=3262192268&perks=3017780555,4293542123
 dimwishlist:item=3262192268&perks=3523296417,4293542123
 dimwishlist:item=3262192268&perks=243981275,4293542123
@@ -9307,10 +8592,7 @@ dimwishlist:item=3262192268&perks=4293542123
 dimwishlist:item=3262192268&perks=243981275
 dimwishlist:item=3262192268&perks=4293542123
 
-//notes:
-Heal Clip | Incandescent
-Attrition Orbs | 
-Demolitionist | 
+//notes:[Heal Clip, Attrition Orbs, Demolitionist] [Incandescent]
 dimwishlist:item=4193602194&perks=3017780555,4293542123
 dimwishlist:item=4193602194&perks=3523296417,4293542123
 dimwishlist:item=4193602194&perks=243981275,4293542123
@@ -9327,10 +8609,7 @@ dimwishlist:item=4193602194&perks=4293542123
 dimwishlist:item=4193602194&perks=243981275
 dimwishlist:item=4193602194&perks=4293542123
 
-//notes:
-Heal Clip | Incandescent
-Attrition Orbs | 
-Demolitionist | 
+//notes:[Heal Clip, Attrition Orbs, Demolitionist] [Incandescent]
 dimwishlist:item=4228149269&perks=3017780555,4293542123
 dimwishlist:item=4228149269&perks=3523296417,4293542123
 dimwishlist:item=4228149269&perks=243981275,4293542123
@@ -9347,10 +8626,7 @@ dimwishlist:item=4228149269&perks=4293542123
 dimwishlist:item=4228149269&perks=243981275
 dimwishlist:item=4228149269&perks=4293542123
 
-//notes:
-Heal Clip | Incandescent
-Attrition Orbs | 
-Demolitionist | 
+//notes:[Heal Clip, Attrition Orbs, Demolitionist] [Incandescent]
 dimwishlist:item=189194532&perks=3017780555,4293542123
 dimwishlist:item=189194532&perks=3523296417,4293542123
 dimwishlist:item=189194532&perks=243981275,4293542123
@@ -9367,10 +8643,7 @@ dimwishlist:item=189194532&perks=4293542123
 dimwishlist:item=189194532&perks=243981275
 dimwishlist:item=189194532&perks=4293542123
 
-//notes:
-Heal Clip | Incandescent
-Attrition Orbs | 
-Demolitionist | 
+//notes:[Heal Clip, Attrition Orbs, Demolitionist] [Incandescent]
 dimwishlist:item=1157220231&perks=3017780555,4293542123
 dimwishlist:item=1157220231&perks=3523296417,4293542123
 dimwishlist:item=1157220231&perks=243981275,4293542123
@@ -9387,10 +8660,7 @@ dimwishlist:item=1157220231&perks=4293542123
 dimwishlist:item=1157220231&perks=243981275
 dimwishlist:item=1157220231&perks=4293542123
 
-//notes:
-Attrition Orbs | Jolting Feedback
-Loose Change | 
-Pugilist | 
+//notes:[Attrition Orbs, Loose Change, Pugilist] [Jolting Feedback]
 dimwishlist:item=825495813&perks=243981275,3966416502
 dimwishlist:item=825495813&perks=691659142,3966416502
 dimwishlist:item=825495813&perks=1119449540,3966416502
@@ -9407,9 +8677,7 @@ dimwishlist:item=825495813&perks=3966416502
 dimwishlist:item=825495813&perks=1119449540
 dimwishlist:item=825495813&perks=3966416502
 
-//notes:
-Repulsor Brace | Destabilizing Rounds
-Enlightened Action | Surrounded
+//notes:[Repulsor Brace, Enlightened Action] [Destabilizing Rounds, Surrounded]
 dimwishlist:item=3098328572&perks=3828510309,3708227201
 dimwishlist:item=3098328572&perks=3828510309,2048641572
 dimwishlist:item=3098328572&perks=3960499185,3708227201
@@ -9445,9 +8713,7 @@ dimwishlist:item=3098328572&perks=777589557
 dimwishlist:item=3098328572&perks=3708227201
 dimwishlist:item=3098328572&perks=2048641572
 
-//notes:
-Repulsor Brace | Destabilizing Rounds
-Enlightened Action | Surrounded
+//notes:[Repulsor Brace, Enlightened Action] [Destabilizing Rounds, Surrounded]
 dimwishlist:item=3354242550&perks=3828510309,3708227201
 dimwishlist:item=3354242550&perks=3828510309,2048641572
 dimwishlist:item=3354242550&perks=3960499185,3708227201
@@ -9483,9 +8749,7 @@ dimwishlist:item=3354242550&perks=777589557
 dimwishlist:item=3354242550&perks=3708227201
 dimwishlist:item=3354242550&perks=2048641572
 
-//notes:
-Repulsor Brace | Destabilizing Rounds
-Enlightened Action | Surrounded
+//notes:[Repulsor Brace, Enlightened Action] [Destabilizing Rounds, Surrounded]
 dimwishlist:item=1050806815&perks=3828510309,3708227201
 dimwishlist:item=1050806815&perks=3828510309,2048641572
 dimwishlist:item=1050806815&perks=3960499185,3708227201
